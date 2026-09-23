@@ -1,6 +1,6 @@
 # Catalogo de muestras (ReconYac)
 
-Total: **30** muestras.
+Total: **40** muestras.
 
 | Codigo | Autor | Tipo de yacimiento | Minerales de mena | Alteracion | Fuente (pag) | Conf. |
 |---|---|---|---|---|---|---|
@@ -34,3 +34,13 @@ Total: **30** muestras.
 | [PTQ-1](samples/PTQ-1/record.md) | Aguilar Peralta, Jose Luis | Porfido de cobre | Pirita, Cuarzo, Olivino | Sericita | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p18) | alta |
 | [PCU-18](samples/PCU-18/record.md) | Aguilar Peralta, Jose Luis | Porfidos cupriferos | Pirita, Cuarzo, Piroxeno | Sericita | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p19) | alta |
 | [POC-3](samples/POC-3-b/record.md) | Aguilar Peralta, Jose Luis | Porfido de cobre | Pirita, Galena, Cuarzo, Ortoza | Limonita, Albita | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p20) | alta |
+| [SK-07](samples/SK-07/record.md) | Aguilar Peralta, Jose Luis | Skarn | Esfalerita, Pirita, Calcita, Cuarzo | Granate | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p23) | alta |
+| [SK-17](samples/SK-17/record.md) | Aguilar Peralta, Jose Luis | Skarn | Granate, Calcita, Piroxeno | Granate, Piroxeno | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p24) | alta |
+| [SK-18](samples/SK-18/record.md) | Aguilar Peralta, Jose Luis | Skarn | Pirita, Calcita, Granate |  | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p25) | alta |
+| [Sk-1](samples/Sk-1/record.md) | Aguilar Peralta, Jose Luis | Skarn | Pirita, Calcita, Molibdenita, Silice |  | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p26) | alta |
+| [SK - 27](samples/SK-27/record.md) | Aguilar Peralta, Jose Luis | Skarn | Granate, Piroxeno, Feldespato-K, Epidota | Granate | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p27) | alta |
+| [SK - AN - 08](samples/SK-AN-08/record.md) | Aguilar Peralta, Jose Luis | Skarn | Pirita, Calcopirita | Sericita | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p28) | alta |
+| [SK - 5](samples/SK-5/record.md) | Aguilar Peralta, Jose Luis | Skarn | Calcopirita, Esfalerita, Galena | Bornita | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p29) | alta |
+| [SK01](samples/SK01/record.md) | Aguilar Peralta, Jose Luis | Skarn | Granate, Epidota, Hematita, Feldespato | Hematita, Granate | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p30) | alta |
+| [SK - 21](samples/SK-21/record.md) | Aguilar Peralta, Jose Luis | Skarn | Pirita, Cuarzo, Granate, Calcopirita | Sericita, Calcopirita | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p31) | alta |
+| [SK - 02](samples/SK-02/record.md) | Aguilar Peralta, Jose Luis | Skarn | Granate, Epidota, Feldespato, Albita | Albita | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p32) | alta |

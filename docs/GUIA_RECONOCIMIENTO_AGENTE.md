@@ -78,6 +78,9 @@ El esquema completo está en `schema/sample.schema.json`. Campos:
 | `ensambles_alteracion` | Sección 3: lista de `{mineral, pct, intensidad, observaciones}`. `intensidad` ∈ incipiente/débil/moderada/intensa/pervasiva. |
 | `secuencia_paragenetica` | Sección 4 (si el formato la trae): `{descripcion, eventos:[{mineral, etapa, notas}]}`, eventos del más antiguo al más reciente. |
 | `interpretacion` | Sección 5: `{protolito, alteraciones, condiciones_fq, tipo_yacimiento}`. |
+| `formato` | Opcional. Nombre del formato cuando **no** es el GE-701 clásico: `"GE-732 Tipo Porfido"`, `"GE-732 Tipo Skarn"`. |
+| `venillas` | Opcional, **solo GE-732 Tipo Pórfido**: lista de `{tipo, espesor_mm, asociaciones, observaciones}`. |
+| `ensambles_proximal_distal` | Opcional, **solo GE-732 Tipo Skarn**: lista de `{mineral, pct, asociacion, observaciones}` (`asociacion` = proximal/distal). |
 | `confianza` | `alta` / `media` / `baja` según legibilidad del escaneo/manuscrito. |
 | `notas_transcripcion` | Dudas, partes ilegibles, glifos ambiguos, etc. |
 
@@ -200,12 +203,24 @@ Antes de procesar, mira qué códigos ya existen y sáltalos:
 ls db/samples/                       # códigos ya hechos
 ```
 
-Estado inicial conocido (al escribir esta guía):
+Estado conocido:
 
 | PDF | Páginas | Hecho | Pendiente |
 |---|---|---|---|
 | `MINAYA_DELGADO_STEVEN.pdf` | 50 | p1 = portada "MAGMÁTICOS"; **MA-Y-19** (p2), **MA-Y-20** (p3), **MA-Y-22** (p4) | **p5–p50** (ojo: puede haber más portadas de sección entre medio) |
 | `Muestras_de_mano_240520.pdf` | 50 | — | **p1–p50** (este formato incluye "4.- Secuencia paragenética"; el texto embebido son solo las etiquetas del formato, el contenido es manuscrito → léelo con visión) |
+| `MAGMATICOS.pdf` | 10 | **COMPLETO** — p1–p10, 10 muestras `MA-T-NN` (Daza Gutiérrez). Escaneado manuscrito | — |
+| `YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf` | 32 | **COMPLETO** — 27 muestras (Aguilar Peralta). PDF digital, texto seleccionable | — (p1 portada, p2/p10/p22 separadores de sección; p21 es el desborde de la muestra de p20) |
+
+Sobre `YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf`: trae **tres formatos distintos** en un mismo
+informe — GE-701 (p3–p9, magmáticos), GE-732 Tipo Pórfido (p11–p21) y GE-732 Tipo Skarn (p23–p32).
+Los dos últimos añaden secciones que el GE-701 no tiene; por eso el esquema tiene los campos
+opcionales `formato`, `venillas` y `ensambles_proximal_distal` (§3). Si aparece un formato nuevo,
+**amplía el esquema de forma aditiva** (campos opcionales) en vez de meter los datos a la fuerza en
+`notas_transcripcion`.
+
+Códigos duplicados ya resueltos con sufijo: `MA-T-5` / `MA-T-5-b` (p5 y p3) y `POC-3` / `POC-3-b`
+(p17 y p20). La muestra de la p4 tiene el código literal `15` (sin prefijo), y su carpeta es `15`.
 
 > Nota sobre el código de MINAYA: la letra central se lee ambigua en el escaneo; se
 > viene transcribiendo como **"Y"** (`MA-Y-NN`). Mantén ese criterio salvo que el

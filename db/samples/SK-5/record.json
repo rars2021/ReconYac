@@ -1,0 +1,81 @@
+{
+  "codigo": "SK - 5",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "formato": "GE-732 Tipo Skarn",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 29,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Calcopirita",
+      "pct": "35",
+      "texturas": "Ameboide-masiva",
+      "observaciones": "Patina atornasolada"
+    },
+    {
+      "mineral": "Esfalerita",
+      "pct": "40",
+      "texturas": "Grafico-simple",
+      "observaciones": "Pardo"
+    },
+    {
+      "mineral": "Galena",
+      "pct": "20",
+      "texturas": "Grafico-simple",
+      "observaciones": "Gris de plomo"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano, masiva, pardo oscura con brillo metalico. Etiquetas: esfalerita, galena y calcopirita.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Bornita",
+      "pct": "5",
+      "intensidad": "alta moderada",
+      "observaciones": "Producto de la alteracion de calcopirita"
+    }
+  ],
+  "ensambles_proximal_distal": [
+    {
+      "mineral": "Calcopirita",
+      "pct": "35",
+      "asociacion": "distal",
+      "observaciones": "Recubre tardio la esfalerita"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: esfalerita, galena, calcopirita y bornita.",
+    "eventos": [
+      {
+        "mineral": "Esfalerita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Galena",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Calcopirita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Bornita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Marmol",
+    "alteraciones": "Alteracion skarn, fase retrograda",
+    "condiciones_fq": "T = 100-300 C; pH = 6-9",
+    "tipo_yacimiento": "Skarn"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. Hoja del formato 'YACIMIENTOS MINERALES METALICOS (GE-732) - Formato de Descripcion de Muestras Tipo Skarn', que trae una seccion 'Ensambles minerales proximal o distal' (campo ensambles_proximal_distal) ausente del GE-701. El esquema es una fotografia de la muestra de mano. Grupo del informe: C) Yacimiento tipo skarn (separador en pagina 22). En la tabla 1 el original escribe 'AMENBOIDE' (errata por ameboide) y en la tabla 2 'ALTAERACION'."
+}

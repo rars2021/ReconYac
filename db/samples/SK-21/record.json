@@ -1,0 +1,72 @@
+{
+  "codigo": "SK - 21",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "formato": "GE-732 Tipo Skarn",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 31,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Pirita",
+      "pct": "15",
+      "texturas": "Diseminado",
+      "observaciones": "Diseminaciones en venillas"
+    },
+    {
+      "mineral": "Cuarzo",
+      "pct": "10",
+      "texturas": "Masivo",
+      "observaciones": "Incrustaciones en granates"
+    },
+    {
+      "mineral": "Granate",
+      "pct": "60",
+      "texturas": "Grafico",
+      "observaciones": "Pardo rojizo"
+    },
+    {
+      "mineral": "Calcopirita",
+      "pct": "10",
+      "texturas": "Simple",
+      "observaciones": "Patina atornasolada"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano, pardo-rojiza con zonas claras. Etiquetas: calcopirita, pirita, granate, cuarzo y sericita.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Sericita",
+      "pct": "5",
+      "intensidad": "altamente",
+      "observaciones": "Incrustadas en venillas"
+    },
+    {
+      "mineral": "Calcopirita",
+      "pct": "10",
+      "intensidad": "moderadamente",
+      "observaciones": "Alrededor de la venilla"
+    }
+  ],
+  "ensambles_proximal_distal": [
+    {
+      "mineral": "Granate",
+      "pct": "55",
+      "asociacion": "proximal",
+      "observaciones": "Rojizo con incrustacion de sericita"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "",
+    "eventos": []
+  },
+  "interpretacion": {
+    "protolito": "Calizas",
+    "alteraciones": "Retrograda",
+    "condiciones_fq": "T = 400-600 C; pH = 5-6",
+    "tipo_yacimiento": "Skarn"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. Hoja del formato 'YACIMIENTOS MINERALES METALICOS (GE-732) - Formato de Descripcion de Muestras Tipo Skarn', que trae una seccion 'Ensambles minerales proximal o distal' (campo ensambles_proximal_distal) ausente del GE-701. El esquema es una fotografia de la muestra de mano. Grupo del informe: C) Yacimiento tipo skarn (separador en pagina 22). La tabla de secuencia paragenetica esta VACIA en la hoja; no se rellena. El granate figura con 60 % en la tabla 1 y con 55 % en la tabla proximal/distal."
+}

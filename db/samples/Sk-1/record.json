@@ -1,0 +1,86 @@
+{
+  "codigo": "Sk-1",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "formato": "GE-732 Tipo Skarn",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 26,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Pirita",
+      "pct": "25",
+      "texturas": "Ameboide",
+      "observaciones": "Deposito tardio en granulos"
+    },
+    {
+      "mineral": "Calcita",
+      "pct": "35",
+      "texturas": "Masiva",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Molibdenita",
+      "pct": "15",
+      "texturas": "Inclusion",
+      "observaciones": "Azulado, suave al tacto"
+    },
+    {
+      "mineral": "Silice",
+      "pct": "25",
+      "texturas": "Masiva",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano con rotulo 'Sk-1', de tono pardo claro y grano grueso. Etiquetas: calcita, molibdenita, silice y pirita.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [],
+  "ensambles_proximal_distal": [
+    {
+      "mineral": "Calcita",
+      "pct": "35",
+      "asociacion": "incipiente",
+      "observaciones": "Correspondiente a la fase retrograda"
+    },
+    {
+      "mineral": "Pirita",
+      "pct": "25",
+      "asociacion": "distal",
+      "observaciones": "Capa superior de mineral granular"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: calcita, silice, pirita y molibdenita.",
+    "eventos": [
+      {
+        "mineral": "Calcita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Silice",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Pirita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Molibdenita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Calizas - dolomias",
+    "alteraciones": "Retrograda",
+    "condiciones_fq": "T = temperaturas bajas; pH = 6-9",
+    "tipo_yacimiento": "Skarn"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. Hoja del formato 'YACIMIENTOS MINERALES METALICOS (GE-732) - Formato de Descripcion de Muestras Tipo Skarn', que trae una seccion 'Ensambles minerales proximal o distal' (campo ensambles_proximal_distal) ausente del GE-701. El esquema es una fotografia de la muestra de mano. Grupo del informe: C) Yacimiento tipo skarn (separador en pagina 22). Esta hoja NO trae la tabla de ensambles de alteracion hidrotermal. En la tabla proximal/distal la fila de calcita dice 'INCIPIENTE' en la columna de asociaciones (donde se espera proximal/distal); se transcribe tal cual. Numeracion de secciones: 1, 2, 3, 5, 6."
+}

@@ -1,0 +1,82 @@
+{
+  "codigo": "SK-07",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "formato": "GE-732 Tipo Skarn",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 23,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Esfalerita",
+      "pct": "20",
+      "texturas": "Simple-masiva",
+      "observaciones": "Parduzco"
+    },
+    {
+      "mineral": "Pirita",
+      "pct": "20",
+      "texturas": "Granular",
+      "observaciones": "Venillas y cristalizado"
+    },
+    {
+      "mineral": "Calcita",
+      "pct": "5",
+      "texturas": "Simple",
+      "observaciones": "Blanco, producto de rellenos"
+    },
+    {
+      "mineral": "Cuarzo",
+      "pct": "5",
+      "texturas": "Grafico",
+      "observaciones": "Cristales a nivel microscopico"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano, pardo oscura. Etiquetas: esfalerita, granate, cuarzo, calcita y pirita.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Granate",
+      "pct": "50",
+      "intensidad": "incipiente",
+      "observaciones": "Granular-parduzco"
+    }
+  ],
+  "ensambles_proximal_distal": [
+    {
+      "mineral": "Granate",
+      "pct": "50",
+      "asociacion": "proximal",
+      "observaciones": "Parduzco a rojizo"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: granate; esfalerita y pirita; calcita.",
+    "eventos": [
+      {
+        "mineral": "Granate",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Esfalerita, Pirita",
+        "etapa": "",
+        "notas": "Comparten casilla en la hoja"
+      },
+      {
+        "mineral": "Calcita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Caliza",
+    "alteraciones": "Sulfidificacion",
+    "condiciones_fq": "T = 200-400 C; pH = 4-7",
+    "tipo_yacimiento": "Skarn"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. Hoja del formato 'YACIMIENTOS MINERALES METALICOS (GE-732) - Formato de Descripcion de Muestras Tipo Skarn', que trae una seccion 'Ensambles minerales proximal o distal' (campo ensambles_proximal_distal) ausente del GE-701. El esquema es una fotografia de la muestra de mano. Grupo del informe: C) Yacimiento tipo skarn (separador en pagina 22). Los porcentajes de la tabla 1 suman 50 %; el granate (50 %) solo figura en las tablas 2 y 3."
+}

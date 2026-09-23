@@ -1,5 +1,5 @@
 {
-  "total": 30,
+  "total": 40,
   "muestras": [
     {
       "codigo": "MA-T-66",
@@ -538,6 +538,190 @@
       ],
       "minerales_alteracion": [
         "Limonita",
+        "Albita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK-07",
+      "dir": "SK-07",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 23,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Caliza",
+      "minerales_mena": [
+        "Esfalerita",
+        "Pirita",
+        "Calcita",
+        "Cuarzo"
+      ],
+      "minerales_alteracion": [
+        "Granate"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK-17",
+      "dir": "SK-17",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 24,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Caliza",
+      "minerales_mena": [
+        "Granate",
+        "Calcita",
+        "Piroxeno"
+      ],
+      "minerales_alteracion": [
+        "Granate",
+        "Piroxeno"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK-18",
+      "dir": "SK-18",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 25,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Calizas",
+      "minerales_mena": [
+        "Pirita",
+        "Calcita",
+        "Granate"
+      ],
+      "minerales_alteracion": [],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "Sk-1",
+      "dir": "Sk-1",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 26,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Calizas - dolomias",
+      "minerales_mena": [
+        "Pirita",
+        "Calcita",
+        "Molibdenita",
+        "Silice"
+      ],
+      "minerales_alteracion": [],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 27",
+      "dir": "SK-27",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 27,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Calizas",
+      "minerales_mena": [
+        "Granate",
+        "Piroxeno",
+        "Feldespato-K",
+        "Epidota"
+      ],
+      "minerales_alteracion": [
+        "Granate"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - AN - 08",
+      "dir": "SK-AN-08",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 28,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Calizas-dolomias",
+      "minerales_mena": [
+        "Pirita",
+        "Calcopirita"
+      ],
+      "minerales_alteracion": [
+        "Sericita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 5",
+      "dir": "SK-5",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 29,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Marmol",
+      "minerales_mena": [
+        "Calcopirita",
+        "Esfalerita",
+        "Galena"
+      ],
+      "minerales_alteracion": [
+        "Bornita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK01",
+      "dir": "SK01",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 30,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Calizas",
+      "minerales_mena": [
+        "Granate",
+        "Epidota",
+        "Hematita",
+        "Feldespato"
+      ],
+      "minerales_alteracion": [
+        "Hematita",
+        "Granate"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 21",
+      "dir": "SK-21",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 31,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Calizas",
+      "minerales_mena": [
+        "Pirita",
+        "Cuarzo",
+        "Granate",
+        "Calcopirita"
+      ],
+      "minerales_alteracion": [
+        "Sericita",
+        "Calcopirita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 02",
+      "dir": "SK-02",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 32,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Calizas, dolomita, rocas igneas y sedimentarias ricas en silice",
+      "minerales_mena": [
+        "Granate",
+        "Epidota",
+        "Feldespato",
+        "Albita"
+      ],
+      "minerales_alteracion": [
         "Albita"
       ],
       "confianza": "alta"

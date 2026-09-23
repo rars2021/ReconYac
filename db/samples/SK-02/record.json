@@ -1,0 +1,87 @@
+{
+  "codigo": "SK - 02",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "formato": "GE-732 Tipo Skarn",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 32,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Granate",
+      "pct": "30",
+      "texturas": "Grafico o ameboide",
+      "observaciones": "Pardo rojizo sobre epidota"
+    },
+    {
+      "mineral": "Epidota",
+      "pct": "50",
+      "texturas": "Grafico",
+      "observaciones": "Verde, mayor volumen"
+    },
+    {
+      "mineral": "Feldespato",
+      "pct": "15",
+      "texturas": "Intrusion",
+      "observaciones": "Rellenando espacios vacios"
+    },
+    {
+      "mineral": "Albita",
+      "pct": "5",
+      "texturas": "Intrusion",
+      "observaciones": "Verde a amarillo (alteracion)"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano, moteada rosada y verde. Etiquetas: granate, feldespatos, albita y epidota.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Albita",
+      "pct": "5",
+      "intensidad": "altamente moderada",
+      "observaciones": "Amarillento sobre epidota"
+    }
+  ],
+  "ensambles_proximal_distal": [
+    {
+      "mineral": "Epidota",
+      "pct": "50",
+      "asociacion": "distal",
+      "observaciones": "Pardo rojizo"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: epidota, granate, feldespatos y albita.",
+    "eventos": [
+      {
+        "mineral": "Epidota",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Granate",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Feldespatos",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Albita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Calizas, dolomita, rocas igneas y sedimentarias ricas en silice",
+    "alteraciones": "Prograda a retrograda",
+    "condiciones_fq": "T = 200-500 C; pH = 5-8",
+    "tipo_yacimiento": "Skarn"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. Hoja del formato 'YACIMIENTOS MINERALES METALICOS (GE-732) - Formato de Descripcion de Muestras Tipo Skarn', que trae una seccion 'Ensambles minerales proximal o distal' (campo ensambles_proximal_distal) ausente del GE-701. El esquema es una fotografia de la muestra de mano. Grupo del informe: C) Yacimiento tipo skarn (separador en pagina 22). En la tabla de alteracion el original escribe 'AMARILLENTE'."
+}

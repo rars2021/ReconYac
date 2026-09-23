@@ -1,0 +1,87 @@
+{
+  "codigo": "SK - 27",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "formato": "GE-732 Tipo Skarn",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 27,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Granate",
+      "pct": "50",
+      "texturas": "Masivo o simple",
+      "observaciones": "Pardusco rojizo"
+    },
+    {
+      "mineral": "Piroxeno",
+      "pct": "15",
+      "texturas": "Masivo",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Feldespato-K",
+      "pct": "30",
+      "texturas": "Ameboide",
+      "observaciones": "Venillas con incrustaciones"
+    },
+    {
+      "mineral": "Epidota",
+      "pct": "5",
+      "texturas": "Grafico a diseminado",
+      "observaciones": "Verde oscuro"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano, pardo-rojiza con parches claros. Etiquetas: FP-K (feldespato potasico), granate y piroxeno.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Granate",
+      "pct": "50",
+      "intensidad": "incipiente",
+      "observaciones": "Perteneciente a la fase retrograda"
+    }
+  ],
+  "ensambles_proximal_distal": [
+    {
+      "mineral": "Epidota",
+      "pct": "5",
+      "asociacion": "distal",
+      "observaciones": "Es mas tardia"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: granate, piroxeno, feldespato-K y epidota.",
+    "eventos": [
+      {
+        "mineral": "Granate",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Piroxeno",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Feldespato-K",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Epidota",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Calizas",
+    "alteraciones": "Prograda",
+    "condiciones_fq": "T = 300-500 C; pH = 4-7",
+    "tipo_yacimiento": "Skarn"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. Hoja del formato 'YACIMIENTOS MINERALES METALICOS (GE-732) - Formato de Descripcion de Muestras Tipo Skarn', que trae una seccion 'Ensambles minerales proximal o distal' (campo ensambles_proximal_distal) ausente del GE-701. El esquema es una fotografia de la muestra de mano. Grupo del informe: C) Yacimiento tipo skarn (separador en pagina 22). En la secuencia paragenetica el original escribe 'GRANTE' y 'PPIROXENO' (erratas por granate y piroxeno). Las secciones de esta hoja van sin numerar."
+}

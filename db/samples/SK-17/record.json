@@ -1,0 +1,88 @@
+{
+  "codigo": "SK-17",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "formato": "GE-732 Tipo Skarn",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 24,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Granate",
+      "pct": "70",
+      "texturas": "Granular",
+      "observaciones": "Parduzco-rojizo"
+    },
+    {
+      "mineral": "Calcita",
+      "pct": "20",
+      "texturas": "Simple-masivo",
+      "observaciones": "Rellena espacios vacios tardios"
+    },
+    {
+      "mineral": "Piroxeno",
+      "pct": "10",
+      "texturas": "Simple-masivo",
+      "observaciones": "Colores oscuros"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano, rojiza y granular. Etiquetas: calcita (vetillas blancas), piroxeno (zonas verdosas) y granate (granos pardo-rojizos).",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Granate",
+      "pct": "60",
+      "intensidad": "incipiente",
+      "observaciones": "Corresponde a la fase retrograda"
+    },
+    {
+      "mineral": "Piroxeno",
+      "pct": "10",
+      "intensidad": "incipiente",
+      "observaciones": "Inclusion, oscuro"
+    }
+  ],
+  "ensambles_proximal_distal": [
+    {
+      "mineral": "Granate",
+      "pct": "60",
+      "asociacion": "proximal",
+      "observaciones": "Inclusion, rojizo"
+    },
+    {
+      "mineral": "Piroxeno",
+      "pct": "10",
+      "asociacion": "distal",
+      "observaciones": "Inclusion, oscuro"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: granate, piroxeno y calcita.",
+    "eventos": [
+      {
+        "mineral": "Granate",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Piroxeno",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Calcita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Caliza",
+    "alteraciones": "Alteracion calcica",
+    "condiciones_fq": "T = 400-600 C; pH = 6-9",
+    "tipo_yacimiento": "Skarn"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. Hoja del formato 'YACIMIENTOS MINERALES METALICOS (GE-732) - Formato de Descripcion de Muestras Tipo Skarn', que trae una seccion 'Ensambles minerales proximal o distal' (campo ensambles_proximal_distal) ausente del GE-701. El esquema es una fotografia de la muestra de mano. Grupo del informe: C) Yacimiento tipo skarn (separador en pagina 22)."
+}

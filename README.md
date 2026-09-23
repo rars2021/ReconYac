@@ -38,6 +38,10 @@ se **regeneran** con `build_index.py`.
 4. **Secuencia paragenética** — eventos en orden temporal (cuando el formato la incluye)
 5. **Interpretación** — protolito · alteraciones · condiciones físico-químicas · tipo de yacimiento
 
+Algunas hojas usan el formato **GE-732** (Tipo Pórfido o Tipo Skarn) en vez del GE-701. Para esos
+casos el registro admite tres campos opcionales: `formato`, `venillas` (tipo · espesor · asociaciones ·
+observaciones) y `ensambles_proximal_distal` (mineral · % · proximal/distal · observaciones).
+
 ## Cómo agregar un lote de muestras
 
 1. Copiar el/los PDF a `muestras_pdf/`.

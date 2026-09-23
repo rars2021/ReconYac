@@ -1,0 +1,73 @@
+{
+  "codigo": "MA - T - 58",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 9,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Esquistos negros",
+      "pct": "50",
+      "texturas": "Bandeado",
+      "observaciones": "Negro, laminares"
+    },
+    {
+      "mineral": "Calcita",
+      "pct": "10",
+      "texturas": "Intrusiones",
+      "observaciones": "Masiva"
+    },
+    {
+      "mineral": "Esquistos verdes",
+      "pct": "30",
+      "texturas": "Bandeado",
+      "observaciones": "Verde, en laminas entrecruzadas"
+    },
+    {
+      "mineral": "Oxidos",
+      "pct": "10",
+      "texturas": "Intrusiones",
+      "observaciones": "Producto de alteracion, rojizo"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano con rotulo 'MA-T-58'. Roca bandeada gris-negra (esquistos) con calcita blanquecina y oxidos pardo-rojizos.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Calcita",
+      "pct": "10",
+      "intensidad": "moderada",
+      "observaciones": "Relleno en espacios vacios"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: esquistos, calcita y oxidos.",
+    "eventos": [
+      {
+        "mineral": "Esquistos",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Calcita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Oxidos",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Lutita-limolita",
+    "alteraciones": "Hidrotermal",
+    "condiciones_fq": "Temperaturas bajas y pH alcalino",
+    "tipo_yacimiento": "Yacimientos magmaticos"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. El esquema de la seccion 2 es una fotografia de la muestra de mano, no un dibujo. Grupo del informe: A) Yacimientos magmaticos (separador en pagina 2). La intensidad figura como 'MODERADAMENTE'."
+}

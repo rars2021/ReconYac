@@ -1,0 +1,70 @@
+{
+  "codigo": "P-13",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "formato": "GE-732 Tipo Porfido",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 14,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Hematita",
+      "pct": "30",
+      "texturas": "Ameboide",
+      "observaciones": "Rojo parduzco, venillas"
+    },
+    {
+      "mineral": "Cuarzo",
+      "pct": "30",
+      "texturas": "Masivo o simple",
+      "observaciones": "Venillas"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano, pardo-rojiza. Etiquetas: hematita, cuarzo, caolinita y venillas (varias, sinuosas y paralelas).",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Caolinita",
+      "pct": "30",
+      "intensidad": "moderada",
+      "observaciones": "Ameboide"
+    }
+  ],
+  "venillas": [
+    {
+      "tipo": "Tipo A",
+      "espesor_mm": "1",
+      "asociaciones": "Cuarzo-hematita",
+      "observaciones": "Sinuoso; 5 venillas paralelas"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: cuarzo, hematita y caolinita.",
+    "eventos": [
+      {
+        "mineral": "Cuarzo",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Hematita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Caolinita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Riolita-caliza",
+    "alteraciones": "Argilica avanzada",
+    "condiciones_fq": "pH < 4; Temperatura = 150-300 C",
+    "tipo_yacimiento": "Porfido cuprifero"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. Hoja del formato 'YACIMIENTOS MINERALES METALICOS (GE-732) - Formato de Descripcion de Muestras Tipo Porfido', que ademas del GE-701 trae una seccion 'Tipo de venillas' (campo venillas). El esquema es una fotografia de la muestra de mano. Grupo del informe: B) Yacimientos tipo porfidos (separador en pagina 10)."
+}

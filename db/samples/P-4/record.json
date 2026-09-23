@@ -1,0 +1,70 @@
+{
+  "codigo": "P - 4",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "formato": "GE-732 Tipo Porfido",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 13,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Pirita",
+      "pct": "40",
+      "texturas": "Diseminado",
+      "observaciones": "Pequenos granos"
+    },
+    {
+      "mineral": "Cuarzo",
+      "pct": "45",
+      "texturas": "Masiva o simple",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano con rotulo 'P-4', de tono verde-pardo. Etiquetas: pirita (borde superior izquierdo), cuarzo y sericita.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Sericita",
+      "pct": "15",
+      "intensidad": "alta",
+      "observaciones": "Diseminado blanquecino"
+    }
+  ],
+  "venillas": [
+    {
+      "tipo": "Tipo D",
+      "espesor_mm": "2",
+      "asociaciones": "Pirita diseminada",
+      "observaciones": "Halos"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: cuarzo, pirita y sericita.",
+    "eventos": [
+      {
+        "mineral": "Cuarzo",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Pirita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Sericita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Granito",
+    "alteraciones": "Filica",
+    "condiciones_fq": "pH = 4-6; Temperatura = 300-450 C",
+    "tipo_yacimiento": "Porfido cuprifero"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. Hoja del formato 'YACIMIENTOS MINERALES METALICOS (GE-732) - Formato de Descripcion de Muestras Tipo Porfido', que ademas del GE-701 trae una seccion 'Tipo de venillas' (campo venillas). El esquema es una fotografia de la muestra de mano. Grupo del informe: B) Yacimientos tipo porfidos (separador en pagina 10). En esta hoja la foto del esquema aparece antes del rotulo '5. Esquema'."
+}

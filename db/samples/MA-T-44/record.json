@@ -1,0 +1,83 @@
+{
+  "codigo": "MA - T - 44",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 7,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Clorita",
+      "pct": "15",
+      "texturas": "Ameboide-masiva",
+      "observaciones": "Verde, producto de alteracion"
+    },
+    {
+      "mineral": "Cuarzo",
+      "pct": "10",
+      "texturas": "Intrusiones",
+      "observaciones": "Masiva"
+    },
+    {
+      "mineral": "Epidota",
+      "pct": "45",
+      "texturas": "Simple-masivo",
+      "observaciones": "Verde, en mayor volumen"
+    },
+    {
+      "mineral": "Oxidos",
+      "pct": "10",
+      "texturas": "Intrusiones",
+      "observaciones": "Producto de alteracion, rojizo"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano con rotulo 'MA-T-44'. Roca verde con epidota y clorita, vetillas claras de cuarzo y sericita, y oxidos rojizos en el borde inferior.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Sericita",
+      "pct": "10",
+      "intensidad": "moderada",
+      "observaciones": "Relleno en espacios vacios"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: epidota, cuarzo, sericita, clorita y oxidos.",
+    "eventos": [
+      {
+        "mineral": "Epidota",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Cuarzo",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Sericita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Clorita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Oxidos",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Gabro-diorita",
+    "alteraciones": "Propilitica",
+    "condiciones_fq": "Temperaturas bajas (200-300 C) y pH alcalino",
+    "tipo_yacimiento": "Yacimientos magmaticos"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. El esquema de la seccion 2 es una fotografia de la muestra de mano, no un dibujo. Grupo del informe: A) Yacimientos magmaticos (separador en pagina 2). Los porcentajes de la tabla 1 suman 80 %; se transcribe tal cual."
+}

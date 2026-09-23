@@ -1,5 +1,5 @@
 {
-  "total": 13,
+  "total": 30,
   "muestras": [
     {
       "codigo": "MA-T-66",
@@ -226,6 +226,319 @@
       ],
       "minerales_alteracion": [
         "Felsicos"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA - T - 5",
+      "dir": "MA-T-5-b",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 3,
+      "tipo_yacimiento": "Yacimientos magmaticos sedimentarios",
+      "protolito": "Lutita",
+      "minerales_mena": [
+        "Arcillas",
+        "Albita",
+        "Sulfatos",
+        "Oxidos"
+      ],
+      "minerales_alteracion": [],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "15",
+      "dir": "15",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 4,
+      "tipo_yacimiento": "Yacimientos magmaticos",
+      "protolito": "Andesitas o riolitas",
+      "minerales_mena": [
+        "Caolin",
+        "Galena",
+        "Esfalerita"
+      ],
+      "minerales_alteracion": [
+        "Esfalerita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA - T - 5",
+      "dir": "MA-T-5",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 5,
+      "tipo_yacimiento": "Yacimientos magmaticos",
+      "protolito": "Rocas igneas intrusivas o extrusivas",
+      "minerales_mena": [
+        "Actinolita",
+        "Cuarzo",
+        "Sericita"
+      ],
+      "minerales_alteracion": [
+        "Sericita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA - T - 115",
+      "dir": "MA-T-115",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 6,
+      "tipo_yacimiento": "Yacimientos magmaticos",
+      "protolito": "Basalto-gabro",
+      "minerales_mena": [
+        "Epidota",
+        "Piroxenos",
+        "Calcita"
+      ],
+      "minerales_alteracion": [
+        "Sericita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA - T - 44",
+      "dir": "MA-T-44",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 7,
+      "tipo_yacimiento": "Yacimientos magmaticos",
+      "protolito": "Gabro-diorita",
+      "minerales_mena": [
+        "Clorita",
+        "Cuarzo",
+        "Epidota",
+        "Oxidos"
+      ],
+      "minerales_alteracion": [
+        "Sericita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA - T - 1",
+      "dir": "MA-T-1",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 8,
+      "tipo_yacimiento": "Yacimientos magmaticos",
+      "protolito": "Rocas igneas intrusivas o extrusivas",
+      "minerales_mena": [
+        "Turmalina",
+        "Granate",
+        "Calcita",
+        "Oxidos"
+      ],
+      "minerales_alteracion": [
+        "Calcita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA - T - 58",
+      "dir": "MA-T-58",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 9,
+      "tipo_yacimiento": "Yacimientos magmaticos",
+      "protolito": "Lutita-limolita",
+      "minerales_mena": [
+        "Esquistos negros",
+        "Calcita",
+        "Esquistos verdes",
+        "Oxidos"
+      ],
+      "minerales_alteracion": [
+        "Calcita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "BB-26-B",
+      "dir": "BB-26-B",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 11,
+      "tipo_yacimiento": "Porfido cuprifero",
+      "protolito": "Granito",
+      "minerales_mena": [
+        "Calcopirita",
+        "Pirita",
+        "Silice"
+      ],
+      "minerales_alteracion": [
+        "Sericita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "P-MC-15",
+      "dir": "P-MC-15",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 12,
+      "tipo_yacimiento": "Porfidos cupriferos",
+      "protolito": "Granodiorita",
+      "minerales_mena": [
+        "Biotita",
+        "Cuarzo",
+        "Pirita",
+        "Calcopirita",
+        "Feldespato-K"
+      ],
+      "minerales_alteracion": [
+        "Sericita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "P - 4",
+      "dir": "P-4",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 13,
+      "tipo_yacimiento": "Porfido cuprifero",
+      "protolito": "Granito",
+      "minerales_mena": [
+        "Pirita",
+        "Cuarzo"
+      ],
+      "minerales_alteracion": [
+        "Sericita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "P-13",
+      "dir": "P-13",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 14,
+      "tipo_yacimiento": "Porfido cuprifero",
+      "protolito": "Riolita-caliza",
+      "minerales_mena": [
+        "Hematita",
+        "Cuarzo"
+      ],
+      "minerales_alteracion": [
+        "Caolinita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "PZ-6",
+      "dir": "PZ-6",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 15,
+      "tipo_yacimiento": "Porfido cuproso",
+      "protolito": "Granodiorita",
+      "minerales_mena": [
+        "Hematita",
+        "Cuarzo",
+        "Plagioclasa"
+      ],
+      "minerales_alteracion": [
+        "Hematita",
+        "Biotita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "PTM-2",
+      "dir": "PTM-2",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 16,
+      "tipo_yacimiento": "Porfido de cobre",
+      "protolito": "Gabro-diorita",
+      "minerales_mena": [
+        "Pirita",
+        "Molibdenita",
+        "Cuarzo",
+        "Olivino"
+      ],
+      "minerales_alteracion": [
+        "Sericita",
+        "Epidota"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "POC-3",
+      "dir": "POC-3",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 17,
+      "tipo_yacimiento": "Porfido cuprifero",
+      "protolito": "Granito",
+      "minerales_mena": [
+        "Pirita",
+        "Piroxeno"
+      ],
+      "minerales_alteracion": [
+        "Caolinita",
+        "Sericita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "PTQ-1",
+      "dir": "PTQ-1",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 18,
+      "tipo_yacimiento": "Porfido de cobre",
+      "protolito": "Granito o granodiorita",
+      "minerales_mena": [
+        "Pirita",
+        "Cuarzo",
+        "Olivino"
+      ],
+      "minerales_alteracion": [
+        "Sericita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "PCU-18",
+      "dir": "PCU-18",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 19,
+      "tipo_yacimiento": "Porfidos cupriferos",
+      "protolito": "Granodiorita",
+      "minerales_mena": [
+        "Pirita",
+        "Cuarzo",
+        "Piroxeno"
+      ],
+      "minerales_alteracion": [
+        "Sericita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "POC-3",
+      "dir": "POC-3-b",
+      "autor": "Aguilar Peralta, Jose Luis",
+      "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+      "pagina": 20,
+      "tipo_yacimiento": "Porfido de cobre",
+      "protolito": "Granito o granodiorita",
+      "minerales_mena": [
+        "Pirita",
+        "Galena",
+        "Cuarzo",
+        "Ortoza"
+      ],
+      "minerales_alteracion": [
+        "Limonita",
+        "Albita"
       ],
       "confianza": "alta"
     }

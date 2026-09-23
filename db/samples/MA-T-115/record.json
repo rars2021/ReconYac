@@ -1,0 +1,72 @@
+{
+  "codigo": "MA - T - 115",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 6,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Epidota",
+      "pct": "60",
+      "texturas": "Ameboide-masiva",
+      "observaciones": "Verde a negro, mayor volumen"
+    },
+    {
+      "mineral": "Piroxenos",
+      "pct": "20",
+      "texturas": "Intrusiones",
+      "observaciones": "Colores oscuros-intermedios"
+    },
+    {
+      "mineral": "Calcita",
+      "pct": "10",
+      "texturas": "Simple-masiva",
+      "observaciones": "Producto de alteracion, blanquecino"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano, de tonos verde-pardo. Etiquetas: epidota (masa verdosa), calcita (vetillas blanquecinas) y piroxenos (zonas oscuras).",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Sericita",
+      "pct": "10",
+      "intensidad": "moderada",
+      "observaciones": "Relleno en espacios vacios"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: epidota, piroxenos, calcita y sericita.",
+    "eventos": [
+      {
+        "mineral": "Epidota",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Piroxenos",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Calcita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Sericita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Basalto-gabro",
+    "alteraciones": "Propilitico",
+    "condiciones_fq": "Temperaturas bajas y pH alcalino",
+    "tipo_yacimiento": "Yacimientos magmaticos"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. El esquema de la seccion 2 es una fotografia de la muestra de mano, no un dibujo. Grupo del informe: A) Yacimientos magmaticos (separador en pagina 2). Los porcentajes de la tabla 1 suman 90 %; se transcribe tal cual. La sericita aparece solo en la tabla de alteracion y en la secuencia paragenetica, no en la tabla 1."
+}

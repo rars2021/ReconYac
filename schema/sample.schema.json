@@ -15,6 +15,10 @@
       "type": "string",
       "description": "Apellidos y Nombres del que describio la muestra."
     },
+    "formato": {
+      "type": "string",
+      "description": "Formato de la hoja descrita, cuando no es el GE-701 clasico (p.ej. 'GE-701', 'GE-732 Porfido', 'GE-732 Skarn')."
+    },
     "fuente_pdf": {
       "type": "string",
       "description": "Nombre del PDF fuente en muestras_pdf/."
@@ -84,6 +88,35 @@
             "type": "string",
             "description": "incipiente | debil | moderada | intensa | pervasiva (o texto libre)."
           },
+          "observaciones": {"type": "string"}
+        },
+        "required": ["mineral"]
+      }
+    },
+    "venillas": {
+      "type": "array",
+      "description": "Tipo de venillas (solo en el formato GE-732 Tipo Porfido).",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "tipo": {"type": "string", "description": "Tipo de venilla (A, B, C, D, ...) tal como figura en la hoja."},
+          "espesor_mm": {"type": "string", "description": "Espesor en mm (texto, admite rangos)."},
+          "asociaciones": {"type": "string", "description": "Asociaciones minerales de la venilla."},
+          "observaciones": {"type": "string", "description": "Halos, sutura, geometria, etc."}
+        }
+      }
+    },
+    "ensambles_proximal_distal": {
+      "type": "array",
+      "description": "Ensambles minerales proximal o distal (solo en el formato GE-732 Tipo Skarn).",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "mineral": {"type": "string"},
+          "pct": {"type": "string"},
+          "asociacion": {"type": "string", "description": "proximal | distal (o texto libre)."},
           "observaciones": {"type": "string"}
         },
         "required": ["mineral"]

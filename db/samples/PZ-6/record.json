@@ -1,0 +1,87 @@
+{
+  "codigo": "PZ-6",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "formato": "GE-732 Tipo Porfido",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 15,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Hematita",
+      "pct": "35",
+      "texturas": "Grafico",
+      "observaciones": "En venillas, parduzco"
+    },
+    {
+      "mineral": "Cuarzo",
+      "pct": "30",
+      "texturas": "Simple",
+      "observaciones": "Deformaciones debido a la temperatura"
+    },
+    {
+      "mineral": "Plagioclasa",
+      "pct": "20",
+      "texturas": "Grafico",
+      "observaciones": "Tabulares-alargados"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano, pardo clara, cortada por venillas oscuras entrecruzadas. Etiquetas: cuarzo, plagioclasa, venillas, biotita y hematita.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Hematita",
+      "pct": "80",
+      "intensidad": "muy alterada",
+      "observaciones": "Parduzco; generan oxidos rojizos"
+    },
+    {
+      "mineral": "Biotita",
+      "pct": "20",
+      "intensidad": "diseminado",
+      "observaciones": "Micas oscuras"
+    }
+  ],
+  "venillas": [
+    {
+      "tipo": "Tipo (sin letra)",
+      "espesor_mm": "1-2",
+      "asociaciones": "Hematita con cuarzo",
+      "observaciones": "Zona de oxidacion y lixiviacion"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: cuarzo, plagioclasa, biotita y hematita.",
+    "eventos": [
+      {
+        "mineral": "Cuarzo",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Plagioclasa",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Biotita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Hematita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Granodiorita",
+    "alteraciones": "Potasica",
+    "condiciones_fq": "pH = 5-7; Temperatura = 400-600 C",
+    "tipo_yacimiento": "Porfido cuproso"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. Hoja del formato 'YACIMIENTOS MINERALES METALICOS (GE-732) - Formato de Descripcion de Muestras Tipo Porfido', que ademas del GE-701 trae una seccion 'Tipo de venillas' (campo venillas). El esquema es una fotografia de la muestra de mano. Grupo del informe: B) Yacimientos tipo porfidos (separador en pagina 10). En la tabla de venillas la celda 'Venillas' solo dice 'TIPO', sin la letra."
+}

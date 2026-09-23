@@ -1,0 +1,67 @@
+{
+  "codigo": "MA - T - 5",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 5,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Actinolita",
+      "pct": "80",
+      "texturas": "Ameboide-masiva",
+      "observaciones": "Verde a negro"
+    },
+    {
+      "mineral": "Cuarzo",
+      "pct": "10",
+      "texturas": "Intrusiones",
+      "observaciones": "Masiva"
+    },
+    {
+      "mineral": "Sericita",
+      "pct": "10",
+      "texturas": "Intrusiones",
+      "observaciones": "Producto de alteracion, blanquecino"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano con rotulo 'MA-T-5'. Masa verde oscura de actinolita con parches claros de cuarzo y sericita blanquecina en los bordes.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Sericita",
+      "pct": "10",
+      "intensidad": "moderada",
+      "observaciones": "Relleno en espacios vacios"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: actinolita, cuarzo y sericita.",
+    "eventos": [
+      {
+        "mineral": "Actinolita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Cuarzo",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Sericita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Rocas igneas intrusivas o extrusivas",
+    "alteraciones": "Hidrotermal",
+    "condiciones_fq": "Temperaturas bajas y pH alcalino",
+    "tipo_yacimiento": "Yacimientos magmaticos"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. El esquema de la seccion 2 es una fotografia de la muestra de mano, no un dibujo. Grupo del informe: A) Yacimientos magmaticos (separador en pagina 2). El codigo esta confirmado por el rotulo de la foto ('MA-T-5'). La hoja de la pagina 3 repite este mismo codigo; ver MA-T-5-b. La intensidad figura como 'MODERADAMENTE'."
+}

@@ -1,0 +1,67 @@
+{
+  "codigo": "15",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 4,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Caolin",
+      "pct": "50",
+      "texturas": "Ameboide-masiva",
+      "observaciones": "Blanquecino poroso"
+    },
+    {
+      "mineral": "Galena",
+      "pct": "30",
+      "texturas": "Intrusiones-ameboide",
+      "observaciones": "Gris de plomo; tiende a formar cristales"
+    },
+    {
+      "mineral": "Esfalerita",
+      "pct": "20",
+      "texturas": "Intrusiones-ameboide",
+      "observaciones": "Marmatita, negro a gris"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano, blanquecina, con rotulo '15'. Etiquetas: caolin (masa blanca), galena y esfalerita (granos y parches negros a gris).",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Esfalerita",
+      "pct": "20",
+      "intensidad": "debil",
+      "observaciones": "Relleno en espacios vacios"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: caolin, esfalerita y galena.",
+    "eventos": [
+      {
+        "mineral": "Caolin",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Esfalerita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Galena",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Andesitas o riolitas",
+    "alteraciones": "Argilica",
+    "condiciones_fq": "Temperaturas bajas (<200 C) y pH alcalino",
+    "tipo_yacimiento": "Yacimientos magmaticos"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. El esquema de la seccion 2 es una fotografia de la muestra de mano, no un dibujo. Grupo del informe: A) Yacimientos magmaticos (separador en pagina 2). El recuadro 'Codigo de Muestra' solo dice '15' (sin el prefijo 'MA - T -'), y el rotulo de la foto tambien dice '15'; se transcribe tal cual. Probablemente corresponda a MA-T-15, pero no se corrige. La intensidad figura como 'DEBILMENTE'."
+}

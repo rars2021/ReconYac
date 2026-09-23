@@ -1,0 +1,81 @@
+{
+  "codigo": "POC-3",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "formato": "GE-732 Tipo Porfido",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 17,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Pirita",
+      "pct": "20",
+      "texturas": "Granular",
+      "observaciones": "Uniforme en venilla"
+    },
+    {
+      "mineral": "Piroxeno",
+      "pct": "20",
+      "texturas": "Corona",
+      "observaciones": "Recubre todas las alteraciones y minerales"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de un testigo (core): mitad izquierda clara con pirita, sericita y caolinita; mitad derecha verde oscura de piroxeno con venillas blancas entrecruzadas.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Caolinita",
+      "pct": "10",
+      "intensidad": "muy alterada",
+      "observaciones": "Blanquecino, rellenos"
+    },
+    {
+      "mineral": "Sericita",
+      "pct": "30",
+      "intensidad": "moderada",
+      "observaciones": "Ameboide, sandwich"
+    }
+  ],
+  "venillas": [
+    {
+      "tipo": "Tipo B",
+      "espesor_mm": "2",
+      "asociaciones": "Pirita y cuarzo",
+      "observaciones": "Rectos con stockworks"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: piroxeno, sericita, pirita y caolinita.",
+    "eventos": [
+      {
+        "mineral": "Piroxeno",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Sericita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Pirita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Caolinita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Granito",
+    "alteraciones": "Filica",
+    "condiciones_fq": "pH = 4-6; Temperatura = 300-450 C",
+    "tipo_yacimiento": "Porfido cuprifero"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. Hoja del formato 'YACIMIENTOS MINERALES METALICOS (GE-732) - Formato de Descripcion de Muestras Tipo Porfido', que ademas del GE-701 trae una seccion 'Tipo de venillas' (campo venillas). El esquema es una fotografia de la muestra de mano. Grupo del informe: B) Yacimientos tipo porfidos (separador en pagina 10). La linea 'Tipo de Yacimiento: PORFIDO DE COBRE' al inicio de esta pagina NO pertenece a esta muestra: es el desborde de la hoja PTM-2 (pagina 16). En esta hoja la numeracion de secciones salta: la de ensambles de alteracion va sin numero y 'Tipo de venillas' figura como 2. La hoja de la pagina 20 repite este mismo codigo; ver POC-3-b. 'STOCKWORDS' en el original (por stockworks)."
+}

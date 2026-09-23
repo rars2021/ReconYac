@@ -34,6 +34,8 @@ def render_record_md(rec):
     L.append(f"# Muestra {rec.get('codigo','(sin codigo)')}")
     L.append("")
     L.append(f"- **Autor:** {rec.get('autor','')}")
+    if rec.get("formato"):
+        L.append(f"- **Formato:** {rec['formato']}")
     L.append(f"- **Fuente:** {rec.get('fuente_pdf','')} (pagina {rec.get('pagina','')})")
     if rec.get("confianza"):
         L.append(f"- **Confianza transcripcion:** {rec['confianza']}")
@@ -58,6 +60,18 @@ def render_record_md(rec):
         L.append(md_table(["Mineral", "%", "Intensidad", "Observaciones"],
                           [[m.get("mineral",""), m.get("pct",""), m.get("intensidad",""), m.get("observaciones","")] for m in ea]))
     L.append("")
+    ven = rec.get("venillas") or []
+    if ven:
+        L.append("## Tipo de venillas")
+        L.append(md_table(["Venilla", "Espesor (mm)", "Asociaciones minerales", "Observaciones"],
+                          [[v.get("tipo",""), v.get("espesor_mm",""), v.get("asociaciones",""), v.get("observaciones","")] for v in ven]))
+        L.append("")
+    pd_ = rec.get("ensambles_proximal_distal") or []
+    if pd_:
+        L.append("## Ensambles minerales proximal / distal")
+        L.append(md_table(["Mineral", "%", "Asociacion", "Observaciones"],
+                          [[m.get("mineral",""), m.get("pct",""), m.get("asociacion",""), m.get("observaciones","")] for m in pd_]))
+        L.append("")
     if seq:
         L.append("## 4. Secuencia paragenetica")
         if seq.get("descripcion"):

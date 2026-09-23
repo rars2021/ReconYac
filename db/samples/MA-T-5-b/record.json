@@ -1,0 +1,71 @@
+{
+  "codigo": "MA - T - 5",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 3,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Arcillas",
+      "pct": "20",
+      "texturas": "Estratificadas",
+      "observaciones": "Blanquecinas"
+    },
+    {
+      "mineral": "Albita",
+      "pct": "10",
+      "texturas": "Grafico",
+      "observaciones": "Amarillento, producto de alteraciones"
+    },
+    {
+      "mineral": "Sulfatos",
+      "pct": "55",
+      "texturas": "Estratificados",
+      "observaciones": "Negros, en mayor cantidad"
+    },
+    {
+      "mineral": "Oxidos",
+      "pct": "15",
+      "texturas": "Estratificados",
+      "observaciones": "Rojizo, producto de alteraciones"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano, de aspecto bandeado/estratificado, con etiquetas: arcillas (bandas blanquecinas), sulfatos (bandas oscuras, borde derecho), albita (zona inferior derecha) y oxidos (zona rojiza inferior izquierda).",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: sulfatos, arcillas, albita y oxidos.",
+    "eventos": [
+      {
+        "mineral": "Sulfatos",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Arcillas",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Albita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Oxidos",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Lutita",
+    "alteraciones": "Hidrotermal",
+    "condiciones_fq": "Temperaturas bajas y pH alcalino",
+    "tipo_yacimiento": "Yacimientos magmaticos sedimentarios"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. El esquema de la seccion 2 es una fotografia de la muestra de mano, no un dibujo. Grupo del informe: A) Yacimientos magmaticos (separador en pagina 2). ATENCION: esta hoja trae el mismo codigo 'MA - T - 5' que la de la pagina 5, pero describe una muestra distinta y su foto no muestra etiqueta de codigo; probablemente sea un codigo arrastrado de la hoja anterior. Se guarda en la carpeta MA-T-5-b para no colisionar con la pagina 5, cuya foto si muestra el rotulo 'MA-T-5'. Esta hoja NO incluye la seccion de ensambles de alteracion: sus secciones son 1 Mineralogia, 2 Esquema, 3 Secuencia paragenetica y 4 Interpretacion."
+}

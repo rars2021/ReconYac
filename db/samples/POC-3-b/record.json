@@ -1,0 +1,103 @@
+{
+  "codigo": "POC-3",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "formato": "GE-732 Tipo Porfido",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 20,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Pirita",
+      "pct": "10",
+      "texturas": "Diseminada",
+      "observaciones": "Amarillo laton, muy desuniforme"
+    },
+    {
+      "mineral": "Galena",
+      "pct": "35",
+      "texturas": "Simple",
+      "observaciones": "Clivaje en 3 direcciones"
+    },
+    {
+      "mineral": "Cuarzo",
+      "pct": "20",
+      "texturas": "Tabular-intrusion",
+      "observaciones": "Cristales"
+    },
+    {
+      "mineral": "Ortoza",
+      "pct": "10",
+      "texturas": "Grafico",
+      "observaciones": "Mica oscura sobre cuarzo"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano, clara con parches verde oscuro. Etiquetas: limonita, albita, galena, pirita, cuarzo y ortosa.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Limonita",
+      "pct": "10",
+      "intensidad": "muy alterada",
+      "observaciones": "Verde oscuro"
+    },
+    {
+      "mineral": "Albita",
+      "pct": "15",
+      "intensidad": "moderada",
+      "observaciones": "Recubre a los minerales presentes"
+    }
+  ],
+  "venillas": [
+    {
+      "tipo": "Tipo A",
+      "espesor_mm": "2",
+      "asociaciones": "Cuarzo, galena",
+      "observaciones": "Recubierta por albita, sinuoso"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: albita, ortosa, galena, pirita, cuarzo y limonita.",
+    "eventos": [
+      {
+        "mineral": "Albita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Ortosa",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Galena",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Pirita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Cuarzo",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Limonita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Granito o granodiorita",
+    "alteraciones": "Propilitica",
+    "condiciones_fq": "pH = 6-8; Temperatura = 100-300 C",
+    "tipo_yacimiento": "Porfido de cobre"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. Hoja del formato 'YACIMIENTOS MINERALES METALICOS (GE-732) - Formato de Descripcion de Muestras Tipo Porfido', que ademas del GE-701 trae una seccion 'Tipo de venillas' (campo venillas). El esquema es una fotografia de la muestra de mano. Grupo del informe: B) Yacimientos tipo porfidos (separador en pagina 10). Muestra repartida en dos paginas: las secciones 1 a 5 estan en la pagina 20 y la seccion 6 (Interpretacion) en la pagina 21; se guarda la imagen de la pagina 20. Repite el codigo 'POC-3' de la pagina 17 pero describe una muestra distinta, por eso se guarda como POC-3-b. En la tabla 1 figura 'ORTOZA' y en la secuencia paragenetica 'ORTOSA'."
+}

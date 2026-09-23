@@ -1,0 +1,78 @@
+{
+  "codigo": "MA - T - 1",
+  "autor": "Aguilar Peralta, Jose Luis",
+  "fuente_pdf": "YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf",
+  "pagina": 8,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Turmalina",
+      "pct": "10",
+      "texturas": "Grafico",
+      "observaciones": "Verde oscuro, de formas tabulares"
+    },
+    {
+      "mineral": "Granate",
+      "pct": "60",
+      "texturas": "Ameboide-masiva",
+      "observaciones": "Parduzco-rojizo"
+    },
+    {
+      "mineral": "Calcita",
+      "pct": "20",
+      "texturas": "Intrusiones",
+      "observaciones": "Masiva"
+    },
+    {
+      "mineral": "Oxidos",
+      "pct": "10",
+      "texturas": "Intrusiones",
+      "observaciones": "Rojizo"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Fotografia de la muestra de mano con rotulo 'MA-T-1'. Roca parduzco-rojiza de granates, con turmalina verde oscura, calcita blanquecina y oxidos rojizos.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Calcita",
+      "pct": "10",
+      "intensidad": "debil",
+      "observaciones": "Relleno en espacios vacios"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: granate, turmalina, calcita y oxidos.",
+    "eventos": [
+      {
+        "mineral": "Granate",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Turmalina",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Calcita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Oxidos",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Rocas igneas intrusivas o extrusivas",
+    "alteraciones": "Propilitica",
+    "condiciones_fq": "Temperaturas bajas (200-300 C) y pH alcalino",
+    "tipo_yacimiento": "Yacimientos magmaticos"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "PDF digital (texto seleccionable), no manuscrito: la transcripcion es literal. El esquema de la seccion 2 es una fotografia de la muestra de mano, no un dibujo. Grupo del informe: A) Yacimientos magmaticos (separador en pagina 2). La intensidad figura como 'DEBILMENTE'. La calcita aparece con 20 % en la tabla 1 y con 10 % en la tabla de alteracion."
+}

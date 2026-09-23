@@ -1,5 +1,5 @@
 {
-  "total": 40,
+  "total": 50,
   "muestras": [
     {
       "codigo": "MA-T-66",
@@ -167,6 +167,194 @@
       "tipo_yacimiento": "Yacimiento magmatico",
       "protolito": "Roca ultramafica",
       "minerales_mena": [
+        "Serpentina",
+        "Talco"
+      ],
+      "minerales_alteracion": [
+        "Serpentina"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA - T - 19",
+      "dir": "MA-T-19",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+      "pagina": 1,
+      "tipo_yacimiento": "Hidrotermal",
+      "protolito": "Gabro",
+      "minerales_mena": [
+        "Piroxenos",
+        "Feldespato potasico",
+        "Serpentina",
+        "Wollastonita"
+      ],
+      "minerales_alteracion": [
+        "Serpentina",
+        "Wollastonita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "YM - 1",
+      "dir": "YM-1",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+      "pagina": 2,
+      "tipo_yacimiento": "Yacimiento magmatico",
+      "protolito": "Dunita - Peridotita",
+      "minerales_mena": [
+        "Olivino",
+        "Serpentina"
+      ],
+      "minerales_alteracion": [
+        "Serpentina"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "YM - 2",
+      "dir": "YM-2",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+      "pagina": 3,
+      "tipo_yacimiento": "Yacimiento magmatico",
+      "protolito": "Gabro, metagabro o anfibolita",
+      "minerales_mena": [
+        "Cuarzo",
+        "Plagioclasa",
+        "Serpentina"
+      ],
+      "minerales_alteracion": [
+        "Serpentina"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "M - A - T - 20",
+      "dir": "M-A-T-20",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+      "pagina": 4,
+      "tipo_yacimiento": "Hidrotermal",
+      "protolito": "Basalto",
+      "minerales_mena": [
+        "Piroxenos",
+        "Feldespato potasico"
+      ],
+      "minerales_alteracion": [
+        "Feldespato potasico"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA - T - 42",
+      "dir": "MA-T-42",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+      "pagina": 5,
+      "tipo_yacimiento": "Metamorfismo de bajo grado",
+      "protolito": "Basalto",
+      "minerales_mena": [
+        "Piroxenos",
+        "Clorita",
+        "Muscovita"
+      ],
+      "minerales_alteracion": [
+        "Clorita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "M - T - 18",
+      "dir": "M-T-18",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+      "pagina": 6,
+      "tipo_yacimiento": "Hidrotermal",
+      "protolito": "Basalto",
+      "minerales_mena": [
+        "Piroxenos",
+        "Feldespato potasico",
+        "Sericita"
+      ],
+      "minerales_alteracion": [
+        "Feldespato potasico",
+        "Sericita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA - t - 75",
+      "dir": "MA-t-75",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+      "pagina": 7,
+      "tipo_yacimiento": "Hidrotermal",
+      "protolito": "Basalto",
+      "minerales_mena": [
+        "Piroxenos",
+        "Actinolita",
+        "Feldespato potasico",
+        "Sericita"
+      ],
+      "minerales_alteracion": [
+        "Actinolita",
+        "Feldespato potasico",
+        "Sericita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA - T - 29",
+      "dir": "MA-T-29",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+      "pagina": 8,
+      "tipo_yacimiento": "Ignea - sedimentaria",
+      "protolito": "Micacita",
+      "minerales_mena": [
+        "Piroclastos",
+        "Sericita",
+        "Pirita",
+        "Muscovita"
+      ],
+      "minerales_alteracion": [
+        "Sericita",
+        "Muscovita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA - T - 43",
+      "dir": "MA-T-43",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+      "pagina": 9,
+      "tipo_yacimiento": "Magmatico - hidrotermal",
+      "protolito": "Gabro",
+      "minerales_mena": [
+        "Piroxenos",
+        "Wollastonita",
+        "Serpentina"
+      ],
+      "minerales_alteracion": [
+        "Wollastonita",
+        "Serpentina"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "YM - 3",
+      "dir": "YM-3",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+      "pagina": 10,
+      "tipo_yacimiento": "Yacimiento magmatico",
+      "protolito": "Roca ultramafica",
+      "minerales_mena": [
+        "Cromita",
+        "Olivino",
         "Serpentina",
         "Talco"
       ],

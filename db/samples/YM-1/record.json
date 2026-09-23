@@ -1,0 +1,56 @@
+{
+  "codigo": "YM - 1",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+  "pagina": 2,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Olivino",
+      "pct": "10",
+      "texturas": "Reemplazamiento",
+      "observaciones": "Olivino pasando a serpentina"
+    },
+    {
+      "mineral": "Serpentina",
+      "pct": "90",
+      "texturas": "Masiva",
+      "observaciones": "Distribuido en toda la muestra"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo de la muestra: matriz de mineral medio verdoso (serpentina) con granos azulados de olivino repartidos por toda la roca.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Serpentina",
+      "pct": "90",
+      "intensidad": "moderada",
+      "observaciones": "Serpentinizacion"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Olivino a mayor temperatura y serpentina despues.",
+    "eventos": [
+      {
+        "mineral": "Olivino",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Serpentina",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Dunita - Peridotita",
+    "alteraciones": "Serpentinizacion",
+    "condiciones_fq": "Hidratacion del olivino",
+    "tipo_yacimiento": "Yacimiento magmatico"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Carpeta = codigo saneado, colapsando los espacios alrededor de los guiones (p.ej. 'MA - T - 19' -> MA-T-19). En la tabla 3 la intensidad figura como 'serpentinizacion (moderada)'. Misma muestra que MA-T-66 (Daza Gutierrez, MAGMATICOS.pdf p1): porcentajes y observaciones coinciden literalmente."
+}

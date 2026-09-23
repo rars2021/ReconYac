@@ -1,0 +1,67 @@
+{
+  "codigo": "YM - 2",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+  "pagina": 3,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Cuarzo",
+      "pct": "15",
+      "texturas": "Masiva",
+      "observaciones": "Zonas claras"
+    },
+    {
+      "mineral": "Plagioclasa",
+      "pct": "15",
+      "texturas": "Masiva",
+      "observaciones": "Zonas claras"
+    },
+    {
+      "mineral": "Serpentina",
+      "pct": "70",
+      "texturas": "Masiva",
+      "observaciones": "Zonas oscuras"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo con zonas claras y oscuras (cierta esquistosidad); las zonas claras son cuarzo y posiblemente plagioclasa, sobre fondo de serpentina.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Serpentina",
+      "pct": "70",
+      "intensidad": "moderada",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Roca caja, luego serpentina y finalmente cuarzo.",
+    "eventos": [
+      {
+        "mineral": "Roca caja",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Serpentina",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Cuarzo",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Gabro, metagabro o anfibolita",
+    "alteraciones": "Serpentinizacion",
+    "condiciones_fq": "Hidratacion del olivino",
+    "tipo_yacimiento": "Yacimiento magmatico"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Carpeta = codigo saneado, colapsando los espacios alrededor de los guiones (p.ej. 'MA - T - 19' -> MA-T-19). El % de la plagioclasa esta reescrito encima (se lee 45 sobre 15); se transcribe 15, que es lo que cuadra con el 15/15/70 de la hoja gemela MA-T-62 (Daza Gutierrez, MAGMATICOS.pdf p9), que describe esta misma muestra."
+}

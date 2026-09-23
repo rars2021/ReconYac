@@ -1,0 +1,73 @@
+{
+  "codigo": "M - T - 18",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+  "pagina": 6,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Piroxenos",
+      "pct": "75",
+      "texturas": "Masiva",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Feldespato potasico",
+      "pct": "20",
+      "texturas": "Ameboide",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Sericita",
+      "pct": "5",
+      "texturas": "Simple",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo de la muestra con piroxenos (azul) y feldespato potasico (naranja) que se altera a sericita (celeste).",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Feldespato potasico",
+      "pct": "20",
+      "intensidad": "moderada",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Sericita",
+      "pct": "5",
+      "intensidad": "debil",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Roca caja, luego feldespato potasico y finalmente sericita (alteracion sericitica).",
+    "eventos": [
+      {
+        "mineral": "Roca caja",
+        "etapa": "roca caja",
+        "notas": ""
+      },
+      {
+        "mineral": "Feldespato potasico",
+        "etapa": "alteracion potasica",
+        "notas": ""
+      },
+      {
+        "mineral": "Sericita",
+        "etapa": "alteracion sericitica",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Basalto",
+    "alteraciones": "Potasica primero y luego sericitica o filica",
+    "condiciones_fq": "1er fluido: pH = 7, T = 400-500 C; 2do fluido: pH = 5",
+    "tipo_yacimiento": "Hidrotermal"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Carpeta = codigo saneado, colapsando los espacios alrededor de los guiones (p.ej. 'MA - T - 19' -> MA-T-19). El codigo se escribe 'M - T - 18', sin la A."
+}

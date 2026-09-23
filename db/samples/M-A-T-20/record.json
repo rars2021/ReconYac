@@ -1,0 +1,56 @@
+{
+  "codigo": "M - A - T - 20",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+  "pagina": 4,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Piroxenos",
+      "pct": "90",
+      "texturas": "Masiva",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Feldespato potasico",
+      "pct": "10",
+      "texturas": "Venillas",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo de la muestra con piroxenos (azul, trama cruzada) cortados por venillas de feldespato potasico (naranja).",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Feldespato potasico",
+      "pct": "10",
+      "intensidad": "moderada",
+      "observaciones": "Se presentan en venillas"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Roca caja (piroxenos, anfiboles) y despues feldespato potasico, correspondiente a la alteracion potasica.",
+    "eventos": [
+      {
+        "mineral": "Roca caja",
+        "etapa": "roca caja",
+        "notas": "Piroxenos, anfiboles"
+      },
+      {
+        "mineral": "Feldespato potasico",
+        "etapa": "alteracion potasica",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Basalto",
+    "alteraciones": "Potasica",
+    "condiciones_fq": "pH = 7; T = 400-500 C",
+    "tipo_yacimiento": "Hidrotermal"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Carpeta = codigo saneado, colapsando los espacios alrededor de los guiones (p.ej. 'MA - T - 19' -> MA-T-19). El codigo esta escrito 'M - A - T - 20', con la M y la A separadas."
+}

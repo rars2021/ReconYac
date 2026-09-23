@@ -1,0 +1,84 @@
+{
+  "codigo": "MA - T - 19",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+  "pagina": 1,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Piroxenos",
+      "pct": "45",
+      "texturas": "Masivo",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Feldespato potasico",
+      "pct": "25",
+      "texturas": "Ameboide",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Serpentina",
+      "pct": "20",
+      "texturas": "Masivo",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Wollastonita",
+      "pct": "10",
+      "texturas": "Masivo",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo de la muestra con leyenda de colores: piroxenos (azul, trama rayada), serpentina (celeste) y feldespato potasico / ortosa (naranja).",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Serpentina",
+      "pct": "20",
+      "intensidad": "moderada",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Wollastonita",
+      "pct": "10",
+      "intensidad": "moderada",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Cuatro barras de mayor a menor temperatura; la primera va sin etiquetar (roca caja) y las siguientes son feldespato potasico, wollastonita y serpentina.",
+    "eventos": [
+      {
+        "mineral": "Roca caja",
+        "etapa": "roca caja",
+        "notas": "Barra sin etiquetar en la hoja"
+      },
+      {
+        "mineral": "Feldespato potasico",
+        "etapa": "hidrotermal",
+        "notas": ""
+      },
+      {
+        "mineral": "Wollastonita",
+        "etapa": "hidrotermal",
+        "notas": ""
+      },
+      {
+        "mineral": "Serpentina",
+        "etapa": "hidrotermal",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Gabro",
+    "alteraciones": "Propilitica",
+    "condiciones_fq": "pH = 6; T = 600 C",
+    "tipo_yacimiento": "Hidrotermal"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Carpeta = codigo saneado, colapsando los espacios alrededor de los guiones (p.ej. 'MA - T - 19' -> MA-T-19). El codigo se lee con claridad como 'MA - T - 19', con T. Es la misma muestra que MA-Y-19 (Minaya Delgado), descrita por otro alumno: mineralogia, protolito (gabro), alteracion propilitica y condiciones casi identicas. Refuerza que la letra central de la serie es T y no Y."
+}

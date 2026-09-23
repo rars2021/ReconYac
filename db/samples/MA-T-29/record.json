@@ -1,0 +1,84 @@
+{
+  "codigo": "MA - T - 29",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+  "pagina": 8,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Piroclastos",
+      "pct": "80",
+      "texturas": "Masivo",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Sericita",
+      "pct": "15",
+      "texturas": "Simple",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Pirita",
+      "pct": "4",
+      "texturas": "Diseminado",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Muscovita",
+      "pct": "1",
+      "texturas": "Diseminado",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo de la muestra con leyenda: sericita (naranja), pirita (azul oscuro, granos pequenos) y piroclastos (celeste).",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Sericita",
+      "pct": "15",
+      "intensidad": "debil",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Muscovita",
+      "pct": "1",
+      "intensidad": "incipiente",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Piroclastos, luego muscovita, sericita y pirita.",
+    "eventos": [
+      {
+        "mineral": "Piroclastos",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Muscovita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Sericita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Pirita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Micacita",
+    "alteraciones": "Filica",
+    "condiciones_fq": "pH = 5; T = 400-500 C",
+    "tipo_yacimiento": "Ignea - sedimentaria"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Carpeta = codigo saneado, colapsando los espacios alrededor de los guiones (p.ej. 'MA - T - 19' -> MA-T-19)."
+}

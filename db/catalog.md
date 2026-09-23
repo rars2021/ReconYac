@@ -1,6 +1,6 @@
 # Catalogo de muestras (ReconYac)
 
-Total: **40** muestras.
+Total: **50** muestras.
 
 | Codigo | Autor | Tipo de yacimiento | Minerales de mena | Alteracion | Fuente (pag) | Conf. |
 |---|---|---|---|---|---|---|
@@ -14,6 +14,16 @@ Total: **40** muestras.
 | [MA-T-49](samples/MA-T-49/record.md) | Daza Gutierrez, Aldo Luis Junior | Yacimiento magmatico | Cromita, Serpentina | Serpentina | MAGMATICOS.pdf (p8) | alta |
 | [MA-T-62](samples/MA-T-62/record.md) | Daza Gutierrez, Aldo Luis Junior | Yacimiento Magmatico | Cuarzo, Plagioclasa, Serpentina | Serpentina, Cuarzo | MAGMATICOS.pdf (p9) | alta |
 | [MA-T-45](samples/MA-T-45/record.md) | Daza Gutierrez, Aldo Luis Junior | Yacimiento magmatico | Serpentina, Talco | Serpentina | MAGMATICOS.pdf (p10) | alta |
+| [MA - T - 19](samples/MA-T-19/record.md) | Chavez Huamancha, Marlon Christopher | Hidrotermal | Piroxenos, Feldespato potasico, Serpentina, Wollastonita | Serpentina, Wollastonita | MAGMATICOS_MUESTRAS.pdf (p1) | alta |
+| [YM - 1](samples/YM-1/record.md) | Chavez Huamancha, Marlon Christopher | Yacimiento magmatico | Olivino, Serpentina | Serpentina | MAGMATICOS_MUESTRAS.pdf (p2) | alta |
+| [YM - 2](samples/YM-2/record.md) | Chavez Huamancha, Marlon Christopher | Yacimiento magmatico | Cuarzo, Plagioclasa, Serpentina | Serpentina | MAGMATICOS_MUESTRAS.pdf (p3) | alta |
+| [M - A - T - 20](samples/M-A-T-20/record.md) | Chavez Huamancha, Marlon Christopher | Hidrotermal | Piroxenos, Feldespato potasico | Feldespato potasico | MAGMATICOS_MUESTRAS.pdf (p4) | alta |
+| [MA - T - 42](samples/MA-T-42/record.md) | Chavez Huamancha, Marlon Christopher | Metamorfismo de bajo grado | Piroxenos, Clorita, Muscovita | Clorita | MAGMATICOS_MUESTRAS.pdf (p5) | alta |
+| [M - T - 18](samples/M-T-18/record.md) | Chavez Huamancha, Marlon Christopher | Hidrotermal | Piroxenos, Feldespato potasico, Sericita | Feldespato potasico, Sericita | MAGMATICOS_MUESTRAS.pdf (p6) | alta |
+| [MA - t - 75](samples/MA-t-75/record.md) | Chavez Huamancha, Marlon Christopher | Hidrotermal | Piroxenos, Actinolita, Feldespato potasico, Sericita | Actinolita, Feldespato potasico, Sericita | MAGMATICOS_MUESTRAS.pdf (p7) | alta |
+| [MA - T - 29](samples/MA-T-29/record.md) | Chavez Huamancha, Marlon Christopher | Ignea - sedimentaria | Piroclastos, Sericita, Pirita, Muscovita | Sericita, Muscovita | MAGMATICOS_MUESTRAS.pdf (p8) | alta |
+| [MA - T - 43](samples/MA-T-43/record.md) | Chavez Huamancha, Marlon Christopher | Magmatico - hidrotermal | Piroxenos, Wollastonita, Serpentina | Wollastonita, Serpentina | MAGMATICOS_MUESTRAS.pdf (p9) | alta |
+| [YM - 3](samples/YM-3/record.md) | Chavez Huamancha, Marlon Christopher | Yacimiento magmatico | Cromita, Olivino, Serpentina, Talco | Serpentina | MAGMATICOS_MUESTRAS.pdf (p10) | alta |
 | [MA-Y-19](samples/MA-Y-19/record.md) | Minaya Delgado, Steven Jeremy (20204182D) | Hidrotermal | Piroxenos, Feldespato Potasico, Serpentina, Wollastonita | Serpentina, Wollastonita | MINAYA_DELGADO_STEVEN.pdf (p2) | alta |
 | [MA-Y-20](samples/MA-Y-20/record.md) | Minaya Delgado, Steven Jeremy (20204182D) | Hidrotermal | Piroxenos, Feldespato Potasico | Feldespato Potasico | MINAYA_DELGADO_STEVEN.pdf (p3) | alta |
 | [MA-Y-22](samples/MA-Y-22/record.md) | Minaya Delgado, Steven Jeremy (20204182D) | Magmatico | Maficos, Felsicos | Felsicos | MINAYA_DELGADO_STEVEN.pdf (p4) | alta |

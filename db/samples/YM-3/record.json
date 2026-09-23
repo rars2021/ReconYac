@@ -1,0 +1,68 @@
+{
+  "codigo": "YM - 3",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+  "pagina": 10,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Cromita",
+      "pct": "40",
+      "texturas": "Masiva",
+      "observaciones": "En toda la muestra"
+    },
+    {
+      "mineral": "Olivino",
+      "pct": "10",
+      "texturas": "Masiva",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Serpentina",
+      "pct": "30",
+      "texturas": "Reemplazamiento",
+      "observaciones": "Tonalidad verde botella"
+    },
+    {
+      "mineral": "Talco",
+      "pct": "20",
+      "texturas": "Venillas",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo del contorno de la muestra con cuatro etiquetas de arriba abajo: talco, olivino, serpentina y cromita.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Serpentina",
+      "pct": "30",
+      "intensidad": "moderada a debil",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Cromita a mayor temperatura y serpentina despues.",
+    "eventos": [
+      {
+        "mineral": "Cromita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Serpentina",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Roca ultramafica",
+    "alteraciones": "Serpentinizacion, metasomatico",
+    "condiciones_fq": "Temperatura intermedia e hidratacion del olivino",
+    "tipo_yacimiento": "Yacimiento magmatico"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Carpeta = codigo saneado, colapsando los espacios alrededor de los guiones (p.ej. 'MA - T - 19' -> MA-T-19). La observacion 'tonalidad verde botella' esta escrita a caballo entre las filas de olivino y serpentina; se asigna a la serpentina, como en la hoja gemela MA-T-64 (Daza Gutierrez, MAGMATICOS.pdf p7), que describe esta misma muestra con los mismos porcentajes. La intensidad de alteracion dice 'Moderada debil'."
+}

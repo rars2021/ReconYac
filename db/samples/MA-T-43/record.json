@@ -1,0 +1,73 @@
+{
+  "codigo": "MA - T - 43",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+  "pagina": 9,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Piroxenos",
+      "pct": "60",
+      "texturas": "Masivo",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Wollastonita",
+      "pct": "35",
+      "texturas": "Simple",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Serpentina",
+      "pct": "5",
+      "texturas": "Inclusiones",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo de la muestra con leyenda: wollastonita (naranja, en cristales alargados), serpentina (celeste) y anfiboles (azul oscuro).",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Wollastonita",
+      "pct": "35",
+      "intensidad": "intensa",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Serpentina",
+      "pct": "5",
+      "intensidad": "debil",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Roca caja, luego wollastonita y finalmente serpentina.",
+    "eventos": [
+      {
+        "mineral": "Roca caja",
+        "etapa": "roca caja",
+        "notas": ""
+      },
+      {
+        "mineral": "Wollastonita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Serpentina",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Gabro",
+    "alteraciones": "Propilitica",
+    "condiciones_fq": "pH = 6-7; T = 600 C",
+    "tipo_yacimiento": "Magmatico - hidrotermal"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Carpeta = codigo saneado, colapsando los espacios alrededor de los guiones (p.ej. 'MA - T - 19' -> MA-T-19). La serpentina figura como '5 %' en la tabla 1."
+}

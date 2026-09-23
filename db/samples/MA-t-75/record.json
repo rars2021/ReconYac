@@ -1,0 +1,90 @@
+{
+  "codigo": "MA - t - 75",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+  "pagina": 7,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Piroxenos",
+      "pct": "65",
+      "texturas": "Masivo",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Actinolita",
+      "pct": "10",
+      "texturas": "Diseminado",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Feldespato potasico",
+      "pct": "15",
+      "texturas": "Ameboide",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Sericita",
+      "pct": "10",
+      "texturas": "Inclusiones",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo de la muestra con leyenda de cuatro colores: feldespato potasico (azul oscuro), sericita (naranja), piroxeno (celeste) y actinolita (rojo).",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Actinolita",
+      "pct": "10",
+      "intensidad": "intensa",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Feldespato potasico",
+      "pct": "15",
+      "intensidad": "moderada",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Sericita",
+      "pct": "10",
+      "intensidad": "debil",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Roca caja (piroxenos, anfiboles), luego alteracion potasica (feldespatos potasicos) y alteracion propilitica (actinolita), y por ultimo sericita (alteracion sericitica).",
+    "eventos": [
+      {
+        "mineral": "Roca caja",
+        "etapa": "roca caja",
+        "notas": "Piroxenos, anfiboles"
+      },
+      {
+        "mineral": "Feldespatos potasicos",
+        "etapa": "alteracion potasica",
+        "notas": ""
+      },
+      {
+        "mineral": "Actinolita",
+        "etapa": "alteracion propilitica",
+        "notas": ""
+      },
+      {
+        "mineral": "Sericita",
+        "etapa": "alteracion sericitica",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Basalto",
+    "alteraciones": "Propilitica, potasica, sericitica",
+    "condiciones_fq": "T = 400-500 C; pH = 7 (1er fluido) -> pH = 6-7 (2do fluido) -> pH = 5 (3er fluido)",
+    "tipo_yacimiento": "Hidrotermal"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Carpeta = codigo saneado, colapsando los espacios alrededor de los guiones (p.ej. 'MA - T - 19' -> MA-T-19). En el codigo la letra central va en minuscula: 'MA - t - 75'."
+}

@@ -1,0 +1,67 @@
+{
+  "codigo": "MA - T - 42",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "fuente_pdf": "MAGMATICOS_MUESTRAS.pdf",
+  "pagina": 5,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Piroxenos",
+      "pct": "80",
+      "texturas": "Masivos",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Clorita",
+      "pct": "15",
+      "texturas": "Simple",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Muscovita",
+      "pct": "5",
+      "texturas": "Simple",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo de la muestra con leyenda: piroxenos (azul), clorita (celeste) y muscovita (naranja), estas dos ultimas concentradas en la parte inferior.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Clorita",
+      "pct": "15",
+      "intensidad": "moderada",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Roca caja (piroxenos), luego clorita y finalmente muscovita.",
+    "eventos": [
+      {
+        "mineral": "Roca caja",
+        "etapa": "roca caja",
+        "notas": "Piroxenos"
+      },
+      {
+        "mineral": "Clorita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Muscovita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Basalto",
+    "alteraciones": "Propilitica",
+    "condiciones_fq": "pH = 6-7; T = 450-600 C",
+    "tipo_yacimiento": "Metamorfismo de bajo grado"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Carpeta = codigo saneado, colapsando los espacios alrededor de los guiones (p.ej. 'MA - T - 19' -> MA-T-19)."
+}

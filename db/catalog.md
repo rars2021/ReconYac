@@ -1,6 +1,6 @@
 # Catalogo de muestras (ReconYac)
 
-Total: **66** muestras.
+Total: **76** muestras.
 
 | Codigo | Autor | Tipo de yacimiento | Minerales de mena | Alteracion | Fuente (pag) | Conf. |
 |---|---|---|---|---|---|---|
@@ -70,3 +70,13 @@ Total: **66** muestras.
 | [SK01](samples/SK01/record.md) | Aguilar Peralta, Jose Luis | Skarn | Granate, Epidota, Hematita, Feldespato | Hematita, Granate | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p30) | alta |
 | [SK - 21](samples/SK-21/record.md) | Aguilar Peralta, Jose Luis | Skarn | Pirita, Cuarzo, Granate, Calcopirita | Sericita, Calcopirita | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p31) | alta |
 | [SK - 02](samples/SK-02/record.md) | Aguilar Peralta, Jose Luis | Skarn | Granate, Epidota, Feldespato, Albita | Albita | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p32) | alta |
+| [SK - 32](samples/SK-32/record.md) | Daza Gutierrez, Aldo Luis Junior | Skarn | Actinolita, Pirita | Actinolita, Pirita | YACIMIENTO_SKARN.pdf (p1) | alta |
+| [SK - 27](samples/SK-27-b/record.md) | Daza Gutierrez, Aldo Luis Junior | Skarn | Galena, Esfalerita, Calcita, Pirita | Calcita, Pirita | YACIMIENTO_SKARN.pdf (p3) | alta |
+| [SK - 24](samples/SK-24/record.md) | Daza Gutierrez, Aldo Luis Junior | Skarn | Esfalerita, Pirita, Calcopirita | Pirita | YACIMIENTO_SKARN.pdf (p5) | alta |
+| [SK - 23](samples/SK-23/record.md) | Daza Gutierrez, Aldo Luis Junior | Skarn | Wollastonita, Sulfuros | Wollastonita | YACIMIENTO_SKARN.pdf (p7) | alta |
+| [SK - 19](samples/SK-19/record.md) | Daza Gutierrez, Aldo Luis Junior | Skarn | Epidota, Feldespato-K | Epidota | YACIMIENTO_SKARN.pdf (p9) | alta |
+| [SK - 17](samples/SK-17-b/record.md) | Daza Gutierrez, Aldo Luis Junior | Skarn | Granate, Epidota, Calcita | Epidota, Calcita, Granate | YACIMIENTO_SKARN.pdf (p11) | alta |
+| [SK - 06](samples/SK-06-b/record.md) | Daza Gutierrez, Aldo Luis Junior | Skarn | Granate, Esfalerita | Granate | YACIMIENTO_SKARN.pdf (p13) | alta |
+| [SK - 07](samples/SK-07-b/record.md) | Daza Gutierrez, Aldo Luis Junior | Skarn | Granate, Piroxeno, Calcita | Granate, Piroxeno | YACIMIENTO_SKARN.pdf (p15) | alta |
+| [SK - 12](samples/SK-12/record.md) | Daza Gutierrez, Aldo Luis Junior | Skarn (endoskarn) | Calcita, Granate | Granate | YACIMIENTO_SKARN.pdf (p17) | alta |
+| [SK - 05](samples/SK-05-b/record.md) | Daza Gutierrez, Aldo Luis Junior | Skarn (endoskarn) | Granates, Silice, Pirita | Granate | YACIMIENTO_SKARN.pdf (p19) | alta |

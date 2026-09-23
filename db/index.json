@@ -1,5 +1,5 @@
 {
-  "total": 66,
+  "total": 76,
   "muestras": [
     {
       "codigo": "MA-T-66",
@@ -1214,6 +1214,187 @@
       ],
       "minerales_alteracion": [
         "Albita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 32",
+      "dir": "SK-32",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "YACIMIENTO_SKARN.pdf",
+      "pagina": 1,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "",
+      "minerales_mena": [
+        "Actinolita",
+        "Pirita"
+      ],
+      "minerales_alteracion": [
+        "Actinolita",
+        "Pirita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 27",
+      "dir": "SK-27-b",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "YACIMIENTO_SKARN.pdf",
+      "pagina": 3,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Marmol",
+      "minerales_mena": [
+        "Galena",
+        "Esfalerita",
+        "Calcita",
+        "Pirita"
+      ],
+      "minerales_alteracion": [
+        "Calcita",
+        "Pirita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 24",
+      "dir": "SK-24",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "YACIMIENTO_SKARN.pdf",
+      "pagina": 5,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "",
+      "minerales_mena": [
+        "Esfalerita",
+        "Pirita",
+        "Calcopirita"
+      ],
+      "minerales_alteracion": [
+        "Pirita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 23",
+      "dir": "SK-23",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "YACIMIENTO_SKARN.pdf",
+      "pagina": 7,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Caliza",
+      "minerales_mena": [
+        "Wollastonita",
+        "Sulfuros"
+      ],
+      "minerales_alteracion": [
+        "Wollastonita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 19",
+      "dir": "SK-19",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "YACIMIENTO_SKARN.pdf",
+      "pagina": 9,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "",
+      "minerales_mena": [
+        "Epidota",
+        "Feldespato-K"
+      ],
+      "minerales_alteracion": [
+        "Epidota"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 17",
+      "dir": "SK-17-b",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "YACIMIENTO_SKARN.pdf",
+      "pagina": 11,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "",
+      "minerales_mena": [
+        "Granate",
+        "Epidota",
+        "Calcita"
+      ],
+      "minerales_alteracion": [
+        "Epidota",
+        "Calcita",
+        "Granate"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 06",
+      "dir": "SK-06-b",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "YACIMIENTO_SKARN.pdf",
+      "pagina": 13,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "",
+      "minerales_mena": [
+        "Granate",
+        "Esfalerita"
+      ],
+      "minerales_alteracion": [
+        "Granate"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 07",
+      "dir": "SK-07-b",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "YACIMIENTO_SKARN.pdf",
+      "pagina": 15,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Prograda skarn",
+      "minerales_mena": [
+        "Granate",
+        "Piroxeno",
+        "Calcita"
+      ],
+      "minerales_alteracion": [
+        "Granate",
+        "Piroxeno"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 12",
+      "dir": "SK-12",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "YACIMIENTO_SKARN.pdf",
+      "pagina": 17,
+      "tipo_yacimiento": "Skarn (endoskarn)",
+      "protolito": "",
+      "minerales_mena": [
+        "Calcita",
+        "Granate"
+      ],
+      "minerales_alteracion": [
+        "Granate"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 05",
+      "dir": "SK-05-b",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "YACIMIENTO_SKARN.pdf",
+      "pagina": 19,
+      "tipo_yacimiento": "Skarn (endoskarn)",
+      "protolito": "Sistema porfido - skarn",
+      "minerales_mena": [
+        "Granates",
+        "Silice",
+        "Pirita"
+      ],
+      "minerales_alteracion": [
+        "Granate"
       ],
       "confianza": "alta"
     }

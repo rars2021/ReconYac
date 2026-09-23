@@ -1,0 +1,65 @@
+{
+  "codigo": "SK - 19",
+  "autor": "Daza Gutierrez, Aldo Luis Junior",
+  "formato": "GE-732 Tipo Skarn",
+  "fuente_pdf": "YACIMIENTO_SKARN.pdf",
+  "pagina": 9,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Epidota",
+      "pct": "40",
+      "texturas": "Masivo",
+      "observaciones": "Reemplaza al ensamble anterior"
+    },
+    {
+      "mineral": "Feldespato-K",
+      "pct": "60",
+      "texturas": "Masivo",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo de la muestra de fondo rosado (feldespato potasico) con parches verdes irregulares de epidota.",
+    "escala": "2 cm",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Epidota",
+      "pct": "40",
+      "intensidad": "moderada",
+      "observaciones": "Masivo"
+    }
+  ],
+  "ensambles_proximal_distal": [
+    {
+      "mineral": "Epidota",
+      "pct": "40",
+      "asociacion": "distal",
+      "observaciones": "Es mas tardia"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Feldespato potasico primero y epidota despues.",
+    "eventos": [
+      {
+        "mineral": "Feldespato-K",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Epidota",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "",
+    "alteraciones": "Fase retrograda",
+    "condiciones_fq": "Temperatura baja; pH basico",
+    "tipo_yacimiento": "Skarn"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Cada muestra ocupa dos paginas consecutivas (anverso con las secciones 1-3 y reverso con las 4-6). El campo 'pagina' apunta al anverso, que es la imagen guardada en page.jpg. Reverso de esta muestra: pagina 10. La casilla Protolito quedo vacia. En la tabla proximal/distal figura 'distral' (por distal)."
+}

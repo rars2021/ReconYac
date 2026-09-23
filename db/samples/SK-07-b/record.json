@@ -1,0 +1,88 @@
+{
+  "codigo": "SK - 07",
+  "autor": "Daza Gutierrez, Aldo Luis Junior",
+  "formato": "GE-732 Tipo Skarn",
+  "fuente_pdf": "YACIMIENTO_SKARN.pdf",
+  "pagina": 15,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Granate",
+      "pct": "60",
+      "texturas": "Lobular",
+      "observaciones": "Parduzco"
+    },
+    {
+      "mineral": "Piroxeno",
+      "pct": "36",
+      "texturas": "Masivo",
+      "observaciones": "Oscuro"
+    },
+    {
+      "mineral": "Calcita",
+      "pct": "4",
+      "texturas": "Venillas",
+      "observaciones": "Son tardias"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo de la muestra de fondo gris (piroxeno) con manchas naranjas lobuladas de granate y venillas celestes de calcita.",
+    "escala": "2 cm",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Granate",
+      "pct": "60",
+      "intensidad": "incipiente",
+      "observaciones": "Forma circular"
+    },
+    {
+      "mineral": "Piroxeno",
+      "pct": "30",
+      "intensidad": "incipiente",
+      "observaciones": "Masivo oscuro"
+    }
+  ],
+  "ensambles_proximal_distal": [
+    {
+      "mineral": "Granate",
+      "pct": "60",
+      "asociacion": "proximal",
+      "observaciones": "Parduzco-rojizo"
+    },
+    {
+      "mineral": "Piroxeno",
+      "pct": "30",
+      "asociacion": "distal",
+      "observaciones": "Oscuro"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Granate primero, luego piroxeno y finalmente calcita.",
+    "eventos": [
+      {
+        "mineral": "Granate",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Piroxeno",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Calcita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Prograda skarn",
+    "alteraciones": "Prograda skarn",
+    "condiciones_fq": "Altas temperaturas; pH basico",
+    "tipo_yacimiento": "Skarn"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Cada muestra ocupa dos paginas consecutivas (anverso con las secciones 1-3 y reverso con las 4-6). El campo 'pagina' apunta al anverso, que es la imagen guardada en page.jpg. Reverso de esta muestra: pagina 16. ATENCION: el codigo 'SK-07' ya lo usa una muestra de Aguilar Peralta (YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf p23), que es otra muestra; por eso esta se guarda en SK-07-b. Es la misma muestra que SK-01 de Chavez Huamancha (SKARN_MUESTRAS.pdf p11): granate 60, piroxeno 36 y calcita 4. El piroxeno figura con 36 % en la tabla 1 y con 30 % en las tablas 2 y 3."
+}

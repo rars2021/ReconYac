@@ -211,6 +211,16 @@ Estado conocido:
 | `Muestras_de_mano_240520.pdf` | 50 | — | **p1–p50** (este formato incluye "4.- Secuencia paragenética"; el texto embebido son solo las etiquetas del formato, el contenido es manuscrito → léelo con visión) |
 | `MAGMATICOS.pdf` | 10 | **COMPLETO** — p1–p10, 10 muestras `MA-T-NN` (Daza Gutiérrez). Escaneado manuscrito | — |
 | `YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf` | 32 | **COMPLETO** — 27 muestras (Aguilar Peralta). PDF digital, texto seleccionable | — (p1 portada, p2/p10/p22 separadores de sección; p21 es el desborde de la muestra de p20) |
+| `MAGMATICOS_MUESTRAS.pdf` | 10 | **COMPLETO** — 10 muestras (Chávez Huamancha). GE-701, escaneado manuscrito | — |
+| `PORFIDOS_MUESTRAS.pdf` | 20 | **COMPLETO** — 10 muestras (Chávez Huamancha). GE-732 Pórfido, 2 páginas por muestra | — |
+| `SKARN_MUESTRAS.pdf` | 12 | **COMPLETO** — 6 muestras (Chávez Huamancha). GE-732 Skarn, 2 páginas por muestra | — |
+| `YACIMIENTO_SKARN.pdf` | 20 | **COMPLETO** — 10 muestras (Daza Gutiérrez). GE-732 Skarn, 2 páginas por muestra | — |
+
+**Hojas a doble página:** en `PORFIDOS_MUESTRAS.pdf`, `SKARN_MUESTRAS.pdf` y `YACIMIENTO_SKARN.pdf`
+cada muestra ocupa dos páginas (anverso = secciones 1–3 con el código; reverso = secciones 4–6).
+En los dos primeros el escaneo **no** trae anverso y reverso consecutivos, así que hay que emparejarlos
+**por contenido** (la secuencia paragenética y el esquema del reverso nombran los minerales del anverso).
+El campo `pagina` apunta siempre al anverso y el reverso queda anotado en `notas_transcripcion`.
 
 Sobre `YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf`: trae **tres formatos distintos** en un mismo
 informe — GE-701 (p3–p9, magmáticos), GE-732 Tipo Pórfido (p11–p21) y GE-732 Tipo Skarn (p23–p32).
@@ -219,8 +229,15 @@ opcionales `formato`, `venillas` y `ensambles_proximal_distal` (§3). Si aparece
 **amplía el esquema de forma aditiva** (campos opcionales) en vez de meter los datos a la fuerza en
 `notas_transcripcion`.
 
-Códigos duplicados ya resueltos con sufijo: `MA-T-5` / `MA-T-5-b` (p5 y p3) y `POC-3` / `POC-3-b`
-(p17 y p20). La muestra de la p4 tiene el código literal `15` (sin prefijo), y su carpeta es `15`.
+**Códigos duplicados entre autores.** Varios alumnos describieron las mismas muestras del gabinete, y
+los códigos se repiten. Resueltos con sufijo `-b`: `MA-T-5`/`MA-T-5-b`, `POC-3`/`POC-3-b`,
+`SK-02`/`SK-02-b`, `SK-05`/`SK-05-b`, `SK-06`/`SK-06-b`, `SK-07`/`SK-07-b`, `SK-17`/`SK-17-b`,
+`SK-27`/`SK-27-b`. **Antes de crear una carpeta, comprueba si ya existe** (`ls db/samples/`) y compara
+el contenido: si es otra muestra, usa sufijo; si es la misma muestra descrita por otro alumno, crea la
+carpeta igual y anota la referencia cruzada en `notas_transcripcion` (así funciona la "memoria").
+La muestra de la p4 de Aguilar tiene el código literal `15` (sin prefijo), y su carpeta es `15`.
+
+**Saneado del código:** los espacios alrededor de los guiones se colapsan (`MA - T - 19` → `MA-T-19`).
 
 > Nota sobre el código de MINAYA: la letra central se lee ambigua en el escaneo; se
 > viene transcribiendo como **"Y"** (`MA-Y-NN`). Mantén ese criterio salvo que el

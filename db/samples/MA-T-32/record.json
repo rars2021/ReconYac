@@ -1,0 +1,56 @@
+{
+  "codigo": "MA-T-32",
+  "autor": "Daza Gutierrez, Aldo Luis Junior",
+  "fuente_pdf": "MAGMATICOS.pdf",
+  "pagina": 6,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Olivino",
+      "pct": "30",
+      "texturas": "Masivo",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Serpentina",
+      "pct": "70",
+      "texturas": "Masivo",
+      "observaciones": "Tonalidad verde botella"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Muestra verde con matriz verde claro y parches de verde oscuro (verde botella) etiquetados como serpentina; las zonas mas claras corresponden a olivino.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Serpentina",
+      "pct": "",
+      "intensidad": "moderada",
+      "observaciones": "Color verde botella"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Olivino a mayor temperatura y serpentina posterior.",
+    "eventos": [
+      {
+        "mineral": "Olivino",
+        "etapa": "magmatico",
+        "notas": ""
+      },
+      {
+        "mineral": "Serpentina",
+        "etapa": "alteracion (serpentinizacion)",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Roca ultramafica",
+    "alteraciones": "Serpentinizacion",
+    "condiciones_fq": "Temperatura intermedia",
+    "tipo_yacimiento": "Yacimiento magmatico"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "La hoja no indica escala en el esquema y la celda de % en la tabla 3 quedo vacia. La letra central del codigo se lee claramente como 'T' en la escritura de este autor (MA-T-NN). Ojo: en MINAYA_DELGADO_STEVEN.pdf el mismo glifo se viene transcribiendo como 'Y' (MA-Y-NN); podrian ser la misma serie de codigos."
+}

@@ -1,0 +1,56 @@
+{
+  "codigo": "MA-T-45",
+  "autor": "Daza Gutierrez, Aldo Luis Junior",
+  "fuente_pdf": "MAGMATICOS.pdf",
+  "pagina": 10,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Serpentina",
+      "pct": "80",
+      "texturas": "Masiva",
+      "observaciones": "Tonalidad verde botella"
+    },
+    {
+      "mineral": "Talco",
+      "pct": "20",
+      "texturas": "Venillas",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Masa verde (serpentina, tonalidad verde botella) cortada por una red de venillas rellenas de talco.",
+    "escala": "2 cm",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Serpentina",
+      "pct": "80",
+      "intensidad": "moderada",
+      "observaciones": "Color verde botella"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Serpentina primero y talco despues, rellenando venillas.",
+    "eventos": [
+      {
+        "mineral": "Serpentina",
+        "etapa": "alteracion (serpentinizacion)",
+        "notas": ""
+      },
+      {
+        "mineral": "Talco",
+        "etapa": "posterior",
+        "notas": "Rellena venillas"
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Roca ultramafica",
+    "alteraciones": "Serpentinizacion; serpentina alterandose a talco",
+    "condiciones_fq": "Hidratacion del Olivino",
+    "tipo_yacimiento": "Yacimiento magmatico"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "La letra central del codigo se lee claramente como 'T' en la escritura de este autor (MA-T-NN). Ojo: en MINAYA_DELGADO_STEVEN.pdf el mismo glifo se viene transcribiendo como 'Y' (MA-Y-NN); podrian ser la misma serie de codigos."
+}

@@ -1,0 +1,56 @@
+{
+  "codigo": "MA-T-21",
+  "autor": "Daza Gutierrez, Aldo Luis Junior",
+  "fuente_pdf": "MAGMATICOS.pdf",
+  "pagina": 3,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Serpentina",
+      "pct": "80",
+      "texturas": "Plegada",
+      "observaciones": "Verde amarillenta"
+    },
+    {
+      "mineral": "Asbesto",
+      "pct": "20",
+      "texturas": "Venillas",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Masa verde (serpentina) con textura plegada, cortada por venillas oscuras de asbesto.",
+    "escala": "2 cm",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Serpentina",
+      "pct": "80",
+      "intensidad": "moderada",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Serpentina a mayor temperatura y asbesto posterior.",
+    "eventos": [
+      {
+        "mineral": "Serpentina",
+        "etapa": "alteracion (serpentinizacion)",
+        "notas": ""
+      },
+      {
+        "mineral": "Asbesto",
+        "etapa": "posterior",
+        "notas": "Rellena venillas"
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Roca ultramafica",
+    "alteraciones": "Serpentinizacion; la serpentina se altera a asbesto",
+    "condiciones_fq": "Temperatura alta",
+    "tipo_yacimiento": "Yacimiento Magmatico"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "La letra central del codigo se lee claramente como 'T' en la escritura de este autor (MA-T-NN). Ojo: en MINAYA_DELGADO_STEVEN.pdf el mismo glifo se viene transcribiendo como 'Y' (MA-Y-NN); podrian ser la misma serie de codigos."
+}

@@ -1,0 +1,78 @@
+{
+  "codigo": "MA-T-64",
+  "autor": "Daza Gutierrez, Aldo Luis Junior",
+  "fuente_pdf": "MAGMATICOS.pdf",
+  "pagina": 7,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Cromita",
+      "pct": "40",
+      "texturas": "Masivo",
+      "observaciones": "En toda la muestra"
+    },
+    {
+      "mineral": "Olivino",
+      "pct": "10",
+      "texturas": "Masivo",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Serpentina",
+      "pct": "30",
+      "texturas": "Reemplazamiento",
+      "observaciones": "Tonalidad verde botella"
+    },
+    {
+      "mineral": "Talco",
+      "pct": "20",
+      "texturas": "Venillas",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Matriz gris con cristales dispersos: verde oscuro = serpentina, verde claro = olivino, celeste = talco (venillas) y granos negros = cromita.",
+    "escala": "2 cm",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Serpentina",
+      "pct": "30",
+      "intensidad": "moderada",
+      "observaciones": "Color verde botella"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Cromita, luego olivino, luego serpentina y finalmente talco.",
+    "eventos": [
+      {
+        "mineral": "Cromita",
+        "etapa": "magmatico",
+        "notas": ""
+      },
+      {
+        "mineral": "Olivino",
+        "etapa": "magmatico",
+        "notas": ""
+      },
+      {
+        "mineral": "Serpentina",
+        "etapa": "alteracion (serpentinizacion)",
+        "notas": ""
+      },
+      {
+        "mineral": "Talco",
+        "etapa": "posterior",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Roca ultramafica",
+    "alteraciones": "Serpentinizacion",
+    "condiciones_fq": "Temperatura intermedia e hidratacion del olivino",
+    "tipo_yacimiento": "Yacimiento magmatico"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "La letra central del codigo se lee claramente como 'T' en la escritura de este autor (MA-T-NN). Ojo: en MINAYA_DELGADO_STEVEN.pdf el mismo glifo se viene transcribiendo como 'Y' (MA-Y-NN); podrian ser la misma serie de codigos."
+}

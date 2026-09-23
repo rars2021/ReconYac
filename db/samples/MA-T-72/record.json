@@ -1,0 +1,56 @@
+{
+  "codigo": "MA-T-72",
+  "autor": "Daza Gutierrez, Aldo Luis Junior",
+  "fuente_pdf": "MAGMATICOS.pdf",
+  "pagina": 4,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Serpentina",
+      "pct": "60",
+      "texturas": "Masiva",
+      "observaciones": "Tonalidad verde"
+    },
+    {
+      "mineral": "Stichtita",
+      "pct": "40",
+      "texturas": "Vitrea - masiva",
+      "observaciones": "Tonalidad lila y brillosa; esta sobre la serpentina"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Muestra con dos dominios: zona verde oscuro (serpentina) a la derecha y zona lila/rosada (stichtita) a la izquierda, sobreimpuesta a la serpentina.",
+    "escala": "4 cm",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Serpentina",
+      "pct": "60",
+      "intensidad": "moderada",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Serpentina primero (mayor T) y stichtita despues.",
+    "eventos": [
+      {
+        "mineral": "Serpentina",
+        "etapa": "alteracion (serpentinizacion)",
+        "notas": ""
+      },
+      {
+        "mineral": "Stichtita",
+        "etapa": "posterior",
+        "notas": "Reemplaza a la serpentina"
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Roca ultramafica",
+    "alteraciones": "Stichtita reemplaza a la serpentina",
+    "condiciones_fq": "Alta temperatura",
+    "tipo_yacimiento": "Yacimiento magmatico"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "La letra central del codigo se lee claramente como 'T' en la escritura de este autor (MA-T-NN). Ojo: en MINAYA_DELGADO_STEVEN.pdf el mismo glifo se viene transcribiendo como 'Y' (MA-Y-NN); podrian ser la misma serie de codigos."
+}

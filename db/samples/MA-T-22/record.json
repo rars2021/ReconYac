@@ -1,0 +1,56 @@
+{
+  "codigo": "MA-T-22",
+  "autor": "Daza Gutierrez, Aldo Luis Junior",
+  "fuente_pdf": "MAGMATICOS.pdf",
+  "pagina": 2,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Minerales maficos",
+      "pct": "60",
+      "texturas": "Bandeado",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Minerales felsicos",
+      "pct": "40",
+      "texturas": "De reemplazamiento",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Roca alargada con bandeamiento: bandas oscuras de minerales maficos y bandas claras de minerales felsicos (plagioclasa, cuarzo).",
+    "escala": "3 cm",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Minerales felsicos",
+      "pct": "40",
+      "intensidad": "moderada",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Roca caja primero y luego plagioclasa.",
+    "eventos": [
+      {
+        "mineral": "Roca",
+        "etapa": "roca caja",
+        "notas": ""
+      },
+      {
+        "mineral": "Plagioclasa",
+        "etapa": "posterior",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Roca ultramafica",
+    "alteraciones": "",
+    "condiciones_fq": "Alta temperatura",
+    "tipo_yacimiento": "Yacimiento magmatico"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "En el esquema la etiqueta dice '(plagioclasa, cz)'; 'cz' se interpreta como cuarzo. La casilla de Alteraciones (seccion 5) quedo vacia. La letra central del codigo se lee claramente como 'T' en la escritura de este autor (MA-T-NN). Ojo: en MINAYA_DELGADO_STEVEN.pdf el mismo glifo se viene transcribiendo como 'Y' (MA-Y-NN); podrian ser la misma serie de codigos."
+}

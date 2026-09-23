@@ -1,0 +1,56 @@
+{
+  "codigo": "MA-T-60",
+  "autor": "Daza Gutierrez, Aldo Luis Junior",
+  "fuente_pdf": "MAGMATICOS.pdf",
+  "pagina": 5,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Serpentina",
+      "pct": "70",
+      "texturas": "Masiva",
+      "observaciones": "Tonalidad verde amarillenta"
+    },
+    {
+      "mineral": "Talco",
+      "pct": "30",
+      "texturas": "Masiva",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Muestra con fondo de minerales claros (talco) y manchas verde-amarillentas de serpentina distribuidas en la matriz.",
+    "escala": "2 cm",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Serpentina",
+      "pct": "70",
+      "intensidad": "moderada",
+      "observaciones": "Color verde amarillenta"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Serpentina primero y talco despues.",
+    "eventos": [
+      {
+        "mineral": "Serpentina",
+        "etapa": "alteracion (serpentinizacion)",
+        "notas": ""
+      },
+      {
+        "mineral": "Talco",
+        "etapa": "posterior",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "",
+    "alteraciones": "Serpentina alterandose a talco",
+    "condiciones_fq": "Hidratacion del Olivino",
+    "tipo_yacimiento": "Yacimiento Magmatico"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "La casilla Protolito (seccion 5) quedo en blanco en la hoja. La letra central del codigo se lee claramente como 'T' en la escritura de este autor (MA-T-NN). Ojo: en MINAYA_DELGADO_STEVEN.pdf el mismo glifo se viene transcribiendo como 'Y' (MA-Y-NN); podrian ser la misma serie de codigos."
+}

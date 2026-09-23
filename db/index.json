@@ -1,6 +1,180 @@
 {
-  "total": 3,
+  "total": 13,
   "muestras": [
+    {
+      "codigo": "MA-T-66",
+      "dir": "MA-T-66",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "MAGMATICOS.pdf",
+      "pagina": 1,
+      "tipo_yacimiento": "Yacimiento Magmatico",
+      "protolito": "Probablemente haya sido una Dunita o una Peridotita",
+      "minerales_mena": [
+        "Olivino",
+        "Serpentina"
+      ],
+      "minerales_alteracion": [
+        "Serpentina"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA-T-22",
+      "dir": "MA-T-22",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "MAGMATICOS.pdf",
+      "pagina": 2,
+      "tipo_yacimiento": "Yacimiento magmatico",
+      "protolito": "Roca ultramafica",
+      "minerales_mena": [
+        "Minerales maficos",
+        "Minerales felsicos"
+      ],
+      "minerales_alteracion": [
+        "Minerales felsicos"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA-T-21",
+      "dir": "MA-T-21",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "MAGMATICOS.pdf",
+      "pagina": 3,
+      "tipo_yacimiento": "Yacimiento Magmatico",
+      "protolito": "Roca ultramafica",
+      "minerales_mena": [
+        "Serpentina",
+        "Asbesto"
+      ],
+      "minerales_alteracion": [
+        "Serpentina"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA-T-72",
+      "dir": "MA-T-72",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "MAGMATICOS.pdf",
+      "pagina": 4,
+      "tipo_yacimiento": "Yacimiento magmatico",
+      "protolito": "Roca ultramafica",
+      "minerales_mena": [
+        "Serpentina",
+        "Stichtita"
+      ],
+      "minerales_alteracion": [
+        "Serpentina"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA-T-60",
+      "dir": "MA-T-60",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "MAGMATICOS.pdf",
+      "pagina": 5,
+      "tipo_yacimiento": "Yacimiento Magmatico",
+      "protolito": "",
+      "minerales_mena": [
+        "Serpentina",
+        "Talco"
+      ],
+      "minerales_alteracion": [
+        "Serpentina"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA-T-32",
+      "dir": "MA-T-32",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "MAGMATICOS.pdf",
+      "pagina": 6,
+      "tipo_yacimiento": "Yacimiento magmatico",
+      "protolito": "Roca ultramafica",
+      "minerales_mena": [
+        "Olivino",
+        "Serpentina"
+      ],
+      "minerales_alteracion": [
+        "Serpentina"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA-T-64",
+      "dir": "MA-T-64",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "MAGMATICOS.pdf",
+      "pagina": 7,
+      "tipo_yacimiento": "Yacimiento magmatico",
+      "protolito": "Roca ultramafica",
+      "minerales_mena": [
+        "Cromita",
+        "Olivino",
+        "Serpentina",
+        "Talco"
+      ],
+      "minerales_alteracion": [
+        "Serpentina"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA-T-49",
+      "dir": "MA-T-49",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "MAGMATICOS.pdf",
+      "pagina": 8,
+      "tipo_yacimiento": "Yacimiento magmatico",
+      "protolito": "Roca ultramafica",
+      "minerales_mena": [
+        "Cromita",
+        "Serpentina"
+      ],
+      "minerales_alteracion": [
+        "Serpentina"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA-T-62",
+      "dir": "MA-T-62",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "MAGMATICOS.pdf",
+      "pagina": 9,
+      "tipo_yacimiento": "Yacimiento Magmatico",
+      "protolito": "Probablemente haya sido un Gabro, Metagabro o Anfibolita",
+      "minerales_mena": [
+        "Cuarzo",
+        "Plagioclasa",
+        "Serpentina"
+      ],
+      "minerales_alteracion": [
+        "Serpentina",
+        "Cuarzo"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA-T-45",
+      "dir": "MA-T-45",
+      "autor": "Daza Gutierrez, Aldo Luis Junior",
+      "fuente_pdf": "MAGMATICOS.pdf",
+      "pagina": 10,
+      "tipo_yacimiento": "Yacimiento magmatico",
+      "protolito": "Roca ultramafica",
+      "minerales_mena": [
+        "Serpentina",
+        "Talco"
+      ],
+      "minerales_alteracion": [
+        "Serpentina"
+      ],
+      "confianza": "alta"
+    },
     {
       "codigo": "MA-Y-19",
       "dir": "MA-Y-19",

@@ -1,0 +1,56 @@
+{
+  "codigo": "MA-T-66",
+  "autor": "Daza Gutierrez, Aldo Luis Junior",
+  "fuente_pdf": "MAGMATICOS.pdf",
+  "pagina": 1,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Olivino",
+      "pct": "10",
+      "texturas": "Reemplazamiento",
+      "observaciones": "Olivino pasando a serpentina"
+    },
+    {
+      "mineral": "Serpentina",
+      "pct": "90",
+      "texturas": "Masivo",
+      "observaciones": "Distribuido en toda la muestra"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Muestra de contorno irregular con matriz verde claro (serpentina) y manchas de verde oscuro a verde amarillento senaladas como olivino (relictos).",
+    "escala": "4 cm",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Serpentina",
+      "pct": "90",
+      "intensidad": "moderada",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Olivino a mayor temperatura, seguido por serpentina al descender la temperatura.",
+    "eventos": [
+      {
+        "mineral": "Olivino",
+        "etapa": "magmatico",
+        "notas": "Barra a mayor T"
+      },
+      {
+        "mineral": "Serpentina",
+        "etapa": "alteracion (serpentinizacion)",
+        "notas": "Barra a menor T"
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Probablemente haya sido una Dunita o una Peridotita",
+    "alteraciones": "Serpentinizacion",
+    "condiciones_fq": "Hidratacion del Olivino",
+    "tipo_yacimiento": "Yacimiento Magmatico"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "En la tabla 1 la columna Texturas trae 'Reemplazamiento' y 'masivo' escritos a caballo entre las dos filas; se asignan a Olivino y Serpentina respectivamente. La letra central del codigo se lee claramente como 'T' en la escritura de este autor (MA-T-NN). Ojo: en MINAYA_DELGADO_STEVEN.pdf el mismo glifo se viene transcribiendo como 'Y' (MA-Y-NN); podrian ser la misma serie de codigos."
+}

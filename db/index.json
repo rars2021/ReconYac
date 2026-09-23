@@ -1,5 +1,5 @@
 {
-  "total": 60,
+  "total": 66,
   "muestras": [
     {
       "codigo": "MA-T-66",
@@ -606,6 +606,117 @@
       "minerales_alteracion": [
         "Clorita",
         "Epidota"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 02",
+      "dir": "SK-02-b",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "SKARN_MUESTRAS.pdf",
+      "pagina": 1,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "",
+      "minerales_mena": [
+        "Esfalerita",
+        "Granate"
+      ],
+      "minerales_alteracion": [
+        "Granate"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 03",
+      "dir": "SK-03",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "SKARN_MUESTRAS.pdf",
+      "pagina": 3,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "",
+      "minerales_mena": [
+        "Epidota",
+        "Granate",
+        "Calcita"
+      ],
+      "minerales_alteracion": [
+        "Epidota",
+        "Calcita",
+        "Granate"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 04",
+      "dir": "SK-04",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "SKARN_MUESTRAS.pdf",
+      "pagina": 5,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Roca calcarea",
+      "minerales_mena": [
+        "Piroxenos",
+        "Granates A",
+        "Granates B"
+      ],
+      "minerales_alteracion": [
+        "Piroxenos",
+        "Granates A",
+        "Granates B"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 05",
+      "dir": "SK-05",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "SKARN_MUESTRAS.pdf",
+      "pagina": 7,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Caliza",
+      "minerales_mena": [
+        "Wollastonita",
+        "Sulfuros"
+      ],
+      "minerales_alteracion": [
+        "Wollastonita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 06",
+      "dir": "SK-06",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "SKARN_MUESTRAS.pdf",
+      "pagina": 9,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "",
+      "minerales_mena": [
+        "Esfalerita",
+        "Pirita",
+        "Calcopirita"
+      ],
+      "minerales_alteracion": [
+        "Pirita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "SK - 01",
+      "dir": "SK-01",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "SKARN_MUESTRAS.pdf",
+      "pagina": 11,
+      "tipo_yacimiento": "Skarn",
+      "protolito": "Progado skarn",
+      "minerales_mena": [
+        "Granate",
+        "Piroxeno",
+        "Calcita"
+      ],
+      "minerales_alteracion": [
+        "Piroxeno",
+        "Granate"
       ],
       "confianza": "alta"
     },

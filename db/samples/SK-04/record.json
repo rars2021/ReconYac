@@ -1,0 +1,94 @@
+{
+  "codigo": "SK - 04",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "formato": "GE-732 Tipo Skarn",
+  "fuente_pdf": "SKARN_MUESTRAS.pdf",
+  "pagina": 5,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Piroxenos",
+      "pct": "35",
+      "texturas": "Bandeados y reemplazamiento",
+      "observaciones": "Piroxenos reemplazando a los granates"
+    },
+    {
+      "mineral": "Granates A",
+      "pct": "25",
+      "texturas": "De reemplazamiento",
+      "observaciones": "Reemplazado a los granates 'B' (A y B)"
+    },
+    {
+      "mineral": "Granates B",
+      "pct": "40",
+      "texturas": "De reemplazamiento",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo circular (vista de lupa) con cristales alargados celestes orientados en diagonal sobre fondo claro.",
+    "escala": "2 cm",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Piroxenos",
+      "pct": "35",
+      "intensidad": "intensa",
+      "observaciones": "Reemplazando a los granates"
+    },
+    {
+      "mineral": "Granates A",
+      "pct": "25",
+      "intensidad": "pervasiva",
+      "observaciones": "Uso de las dos generaciones"
+    },
+    {
+      "mineral": "Granates B",
+      "pct": "40",
+      "intensidad": "pervasiva",
+      "observaciones": "Uso de las dos generaciones"
+    }
+  ],
+  "ensambles_proximal_distal": [
+    {
+      "mineral": "Granates",
+      "pct": "65",
+      "asociacion": "distal",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Piroxenos",
+      "pct": "35",
+      "asociacion": "proximal",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Granates A primero; despues granates B junto con piroxenos, y piroxenos hasta el final.",
+    "eventos": [
+      {
+        "mineral": "Granates A",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Granates B",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Piroxenos",
+        "etapa": "",
+        "notas": "Abarca las dos ultimas casillas"
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Roca calcarea",
+    "alteraciones": "Del skarn (metamorfismo)",
+    "condiciones_fq": "Temperaturas altas; pH neutro a acido",
+    "tipo_yacimiento": "Skarn"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Cada muestra ocupa dos paginas (anverso con las secciones 1-3 y reverso con las 4-6) y el PDF NO las trae consecutivas: el emparejamiento se reconstruyo por contenido. El campo 'pagina' apunta al anverso (el que lleva el codigo) y es la imagen guardada en page.jpg. Reverso de esta muestra: pagina 8. En la tabla 1 las dos generaciones de granate figuran ambas como 'Granates' (25 y 40 %); en la tabla 2 se distinguen como 'Granates A' y 'Granates B', y asi se transcriben. El recuadro de autor invierte el orden: 'Marlon Christopher / Chavez Huamancha'."
+}

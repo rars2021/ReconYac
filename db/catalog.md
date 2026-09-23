@@ -1,6 +1,6 @@
 # Catalogo de muestras (ReconYac)
 
-Total: **60** muestras.
+Total: **66** muestras.
 
 | Codigo | Autor | Tipo de yacimiento | Minerales de mena | Alteracion | Fuente (pag) | Conf. |
 |---|---|---|---|---|---|---|
@@ -37,6 +37,12 @@ Total: **60** muestras.
 | [M - 2](samples/M-2/record.md) | Chavez Huamancha, Marlon Christopher | Porfido | Cuarzo, Galena y esfalerita, Oxidos | Oxidos, Galena y esfalerita | PORFIDOS_MUESTRAS.pdf (p15) | alta |
 | [M - 4](samples/M-4/record.md) | Chavez Huamancha, Marlon Christopher | Porfido | Cuarzo, Sulfuros | Oxidos (tenorita, hematita) | PORFIDOS_MUESTRAS.pdf (p17) | alta |
 | [PCM - 18](samples/PCM-18/record.md) | Chavez Huamancha, Marlon Christopher | Porfido de cobre | Clorita, Epidota, Silice, Pirita, Calcopirita | Clorita, Epidota | PORFIDOS_MUESTRAS.pdf (p19) | alta |
+| [SK - 02](samples/SK-02-b/record.md) | Chavez Huamancha, Marlon Christopher | Skarn | Esfalerita, Granate | Granate | SKARN_MUESTRAS.pdf (p1) | alta |
+| [SK - 03](samples/SK-03/record.md) | Chavez Huamancha, Marlon Christopher | Skarn | Epidota, Granate, Calcita | Epidota, Calcita, Granate | SKARN_MUESTRAS.pdf (p3) | alta |
+| [SK - 04](samples/SK-04/record.md) | Chavez Huamancha, Marlon Christopher | Skarn | Piroxenos, Granates A, Granates B | Piroxenos, Granates A, Granates B | SKARN_MUESTRAS.pdf (p5) | alta |
+| [SK - 05](samples/SK-05/record.md) | Chavez Huamancha, Marlon Christopher | Skarn | Wollastonita, Sulfuros | Wollastonita | SKARN_MUESTRAS.pdf (p7) | alta |
+| [SK - 06](samples/SK-06/record.md) | Chavez Huamancha, Marlon Christopher | Skarn | Esfalerita, Pirita, Calcopirita | Pirita | SKARN_MUESTRAS.pdf (p9) | alta |
+| [SK - 01](samples/SK-01/record.md) | Chavez Huamancha, Marlon Christopher | Skarn | Granate, Piroxeno, Calcita | Piroxeno, Granate | SKARN_MUESTRAS.pdf (p11) | alta |
 | [MA - T - 5](samples/MA-T-5-b/record.md) | Aguilar Peralta, Jose Luis | Yacimientos magmaticos sedimentarios | Arcillas, Albita, Sulfatos, Oxidos |  | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p3) | alta |
 | [15](samples/15/record.md) | Aguilar Peralta, Jose Luis | Yacimientos magmaticos | Caolin, Galena, Esfalerita | Esfalerita | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p4) | alta |
 | [MA - T - 5](samples/MA-T-5/record.md) | Aguilar Peralta, Jose Luis | Yacimientos magmaticos | Actinolita, Cuarzo, Sericita | Sericita | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p5) | alta |

@@ -1,0 +1,88 @@
+{
+  "codigo": "SK - 01",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "formato": "GE-732 Tipo Skarn",
+  "fuente_pdf": "SKARN_MUESTRAS.pdf",
+  "pagina": 11,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Granate",
+      "pct": "60",
+      "texturas": "Lobular",
+      "observaciones": "Color pardo, no uniforme (1 cm - mas)"
+    },
+    {
+      "mineral": "Piroxeno",
+      "pct": "36",
+      "texturas": "Masivo",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Calcita",
+      "pct": "4",
+      "texturas": "Venillas",
+      "observaciones": "Posterior a la formacion de minerales"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo circular (vista de lupa) con parches anaranjados lobulados de contorno irregular repartidos sobre fondo claro.",
+    "escala": "2 cm",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Piroxeno",
+      "pct": "60",
+      "intensidad": "incipiente",
+      "observaciones": "Formas circulares, no regulares"
+    },
+    {
+      "mineral": "Granate",
+      "pct": "36",
+      "intensidad": "incipiente",
+      "observaciones": "Masivos, en tonos oscuros"
+    }
+  ],
+  "ensambles_proximal_distal": [
+    {
+      "mineral": "Granate",
+      "pct": "60",
+      "asociacion": "proximal",
+      "observaciones": "Tonos pardos-rojizos"
+    },
+    {
+      "mineral": "Piroxeno",
+      "pct": "36",
+      "asociacion": "distal",
+      "observaciones": "Oscuros"
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Granate primero, luego piroxeno y finalmente calcita.",
+    "eventos": [
+      {
+        "mineral": "Granate",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Piroxeno",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Calcita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Progado skarn",
+    "alteraciones": "Prograda skarn",
+    "condiciones_fq": "Altas temperaturas; pH basico",
+    "tipo_yacimiento": "Skarn"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Cada muestra ocupa dos paginas (anverso con las secciones 1-3 y reverso con las 4-6) y el PDF NO las trae consecutivas: el emparejamiento se reconstruyo por contenido. El campo 'pagina' apunta al anverso (el que lleva el codigo) y es la imagen guardada en page.jpg. Reverso de esta muestra: pagina 2. En la tabla 2 los porcentajes de piroxeno (60) y granate (36) aparecen intercambiados respecto a la tabla 1 (granate 60, piroxeno 36); se transcribe lo que dice cada tabla. Ojo: existe ademas una muestra 'SK01' de Aguilar Peralta (carpeta SK01), que es otra muestra distinta."
+}

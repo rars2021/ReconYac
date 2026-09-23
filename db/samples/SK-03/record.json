@@ -1,0 +1,88 @@
+{
+  "codigo": "SK - 03",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "formato": "GE-732 Tipo Skarn",
+  "fuente_pdf": "SKARN_MUESTRAS.pdf",
+  "pagina": 3,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Epidota",
+      "pct": "35",
+      "texturas": "Masivo",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Granate",
+      "pct": "50",
+      "texturas": "Granular",
+      "observaciones": "Tonos rojizos < tonos verdes, grano fino"
+    },
+    {
+      "mineral": "Calcita",
+      "pct": "15",
+      "texturas": "Masivo",
+      "observaciones": "Se forma de manera tardia"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo circular (vista de lupa) con parches anaranjados ramificados (granate), una banda verde-azulada inferior (epidota) y zonas claras (calcita) senaladas con flechas.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Epidota",
+      "pct": "35",
+      "intensidad": "incipiente",
+      "observaciones": "Pertenece a la fase retrograda"
+    },
+    {
+      "mineral": "Calcita",
+      "pct": "15",
+      "intensidad": "incipiente",
+      "observaciones": "Pertenece a la fase retrograda"
+    },
+    {
+      "mineral": "Granate",
+      "pct": "50",
+      "intensidad": "moderada",
+      "observaciones": "Pertenece a la fase retrograda"
+    }
+  ],
+  "ensambles_proximal_distal": [
+    {
+      "mineral": "Granate",
+      "pct": "50",
+      "asociacion": "distal",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Granate y epidota a mayor temperatura, calcita al final.",
+    "eventos": [
+      {
+        "mineral": "Granate",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Epidota",
+        "etapa": "",
+        "notas": "Comparte casilla con el granate"
+      },
+      {
+        "mineral": "Calcita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "",
+    "alteraciones": "Prograda y retrograda",
+    "condiciones_fq": "T altas (prograda), bajas (retrograda); pH basico",
+    "tipo_yacimiento": "Skarn"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Cada muestra ocupa dos paginas (anverso con las secciones 1-3 y reverso con las 4-6) y el PDF NO las trae consecutivas: el emparejamiento se reconstruyo por contenido. El campo 'pagina' apunta al anverso (el que lleva el codigo) y es la imagen guardada en page.jpg. Reverso de esta muestra: pagina 6. La casilla Protolito lleva solo unos guiones."
+}

@@ -1,0 +1,88 @@
+{
+  "codigo": "M - 2",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "formato": "GE-732 Tipo Porfido",
+  "fuente_pdf": "PORFIDOS_MUESTRAS.pdf",
+  "pagina": 15,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Cuarzo",
+      "pct": "25",
+      "texturas": "Venilla",
+      "observaciones": "Venilla de cuarzo intruida en una roca volcanica (andesita)"
+    },
+    {
+      "mineral": "Galena y esfalerita",
+      "pct": "5",
+      "texturas": "Venilla",
+      "observaciones": "Venillas rectas intruidas en la venilla de cuarzo"
+    },
+    {
+      "mineral": "Oxidos",
+      "pct": "8",
+      "texturas": "Venilla",
+      "observaciones": "Venilla de oxidos que fue intruida por una venilla de cuarzo (formando una especie de halo de oxidos)"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo circular (vista de lupa) de fondo anaranjado atravesado por venillas claras sinuosas: se senalan la venilla tipo B (izquierda) y la venilla tipo A (derecha).",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Oxidos",
+      "pct": "8",
+      "intensidad": "moderada",
+      "observaciones": "Los oxidos se encuentran reemplazando a los sulfuros como la galena o esfalerita"
+    },
+    {
+      "mineral": "Galena y esfalerita",
+      "pct": "5",
+      "intensidad": "moderada",
+      "observaciones": ""
+    }
+  ],
+  "venillas": [
+    {
+      "tipo": "Tipo A",
+      "espesor_mm": "2",
+      "asociaciones": "Silice gris",
+      "observaciones": ""
+    },
+    {
+      "tipo": "Tipo B",
+      "espesor_mm": "1",
+      "asociaciones": "Oxidos",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: cuarzo, sulfuros y oxidos.",
+    "eventos": [
+      {
+        "mineral": "Cuarzo",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Sulfuros",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Oxidos",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Roca volcanica",
+    "alteraciones": "Supergena (oxidacion de los sulfuros)",
+    "condiciones_fq": "Condiciones supergenas; T = 360-460 C; pH neutro a basico (5-7)",
+    "tipo_yacimiento": "Porfido"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Cada muestra ocupa dos paginas (anverso con las secciones 1-3 y reverso con las 4-6), pero el PDF NO las trae consecutivas: el emparejamiento se reconstruyo por contenido. El campo 'pagina' apunta al anverso (el que lleva el codigo) y es la imagen guardada en page.jpg. Reverso de esta muestra: pagina 16. La galena y la esfalerita comparten una sola celda de % (5) en las tablas 1 y 2."
+}

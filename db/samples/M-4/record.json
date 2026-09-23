@@ -1,0 +1,70 @@
+{
+  "codigo": "M - 4",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "formato": "GE-732 Tipo Porfido",
+  "fuente_pdf": "PORFIDOS_MUESTRAS.pdf",
+  "pagina": 17,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Cuarzo",
+      "pct": "30",
+      "texturas": "Masiva",
+      "observaciones": "Compone la roca huesped"
+    },
+    {
+      "mineral": "Sulfuros",
+      "pct": "10",
+      "texturas": "Venillas y diseminados, textura stockwork",
+      "observaciones": "Venillas de sulfuros que fueron oxidadas"
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo circular (vista de lupa) con venillas anaranjadas gruesas y venillas azules finas entrecruzadas sobre fondo claro; se senalan como venillas tipo C.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Oxidos (tenorita, hematita)",
+      "pct": "10",
+      "intensidad": "intensa",
+      "observaciones": "Venillas de oxidos rectas e intercruzadas"
+    }
+  ],
+  "venillas": [
+    {
+      "tipo": "Tipo C",
+      "espesor_mm": "2",
+      "asociaciones": "Pirita",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: minerales de la roca huesped, sulfuros y oxidos en general.",
+    "eventos": [
+      {
+        "mineral": "Minerales de roca huesped",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Sulfuros",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Oxidos en general",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Roca ignea",
+    "alteraciones": "Filica o argilica, luego alteracion supergena",
+    "condiciones_fq": "Condiciones de ambiente supergeno; T = 350 C; pH neutro (7)",
+    "tipo_yacimiento": "Porfido"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Cada muestra ocupa dos paginas (anverso con las secciones 1-3 y reverso con las 4-6), pero el PDF NO las trae consecutivas: el emparejamiento se reconstruyo por contenido. El campo 'pagina' apunta al anverso (el que lleva el codigo) y es la imagen guardada en page.jpg. Reverso de esta muestra: pagina 6. En la tabla 2 el % (10) y la intensidad se escribieron a la altura de la segunda linea del nombre del mineral."
+}

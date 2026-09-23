@@ -1,5 +1,5 @@
 {
-  "total": 50,
+  "total": 60,
   "muestras": [
     {
       "codigo": "MA-T-66",
@@ -414,6 +414,198 @@
       ],
       "minerales_alteracion": [
         "Felsicos"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "PCM - 12",
+      "dir": "PCM-12",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "PORFIDOS_MUESTRAS.pdf",
+      "pagina": 1,
+      "tipo_yacimiento": "Porfido de Cu",
+      "protolito": "",
+      "minerales_mena": [
+        "Clorita",
+        "Epidota",
+        "Cuarzo",
+        "Sericita"
+      ],
+      "minerales_alteracion": [
+        "Clorita",
+        "Epidota"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "M - 5",
+      "dir": "M-5",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "PORFIDOS_MUESTRAS.pdf",
+      "pagina": 3,
+      "tipo_yacimiento": "Porfido",
+      "protolito": "No identificable",
+      "minerales_mena": [
+        "Cuarzo",
+        "Esfalerita y galena",
+        "Clorita",
+        "Casiterita",
+        "Pirita"
+      ],
+      "minerales_alteracion": [
+        "Galena y esfalerita",
+        "Cloritas",
+        "Oxidos (limonitas)"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "PCM - 14",
+      "dir": "PCM-14",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "PORFIDOS_MUESTRAS.pdf",
+      "pagina": 5,
+      "tipo_yacimiento": "Porfido de Cu",
+      "protolito": "",
+      "minerales_mena": [
+        "Clorita",
+        "Cuarzo",
+        "Sericita",
+        "Pirita"
+      ],
+      "minerales_alteracion": [
+        "Clorita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "PCM - 16",
+      "dir": "PCM-16",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "PORFIDOS_MUESTRAS.pdf",
+      "pagina": 7,
+      "tipo_yacimiento": "Porfido de Cu",
+      "protolito": "",
+      "minerales_mena": [
+        "Clorita",
+        "Epidota",
+        "Calcopirita",
+        "Pirita"
+      ],
+      "minerales_alteracion": [
+        "Clorita",
+        "Epidota"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "M - 7",
+      "dir": "M-7",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "PORFIDOS_MUESTRAS.pdf",
+      "pagina": 9,
+      "tipo_yacimiento": "Porfido",
+      "protolito": "Roca sedimentaria",
+      "minerales_mena": [
+        "Pirita",
+        "Materia organica"
+      ],
+      "minerales_alteracion": [
+        "Pirita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "M - 1",
+      "dir": "M-1",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "PORFIDOS_MUESTRAS.pdf",
+      "pagina": 11,
+      "tipo_yacimiento": "Yacimiento porfido",
+      "protolito": "No se puede determinar",
+      "minerales_mena": [
+        "Sulfuros en general"
+      ],
+      "minerales_alteracion": [
+        "Limonita",
+        "Arcillas, sericita y caolinita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "M - 3",
+      "dir": "M-3",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "PORFIDOS_MUESTRAS.pdf",
+      "pagina": 13,
+      "tipo_yacimiento": "Porfido",
+      "protolito": "Roca ignea plutonica (serie de granito)",
+      "minerales_mena": [
+        "Ortosa",
+        "Cuarzo",
+        "Plagioclasa",
+        "Epidota",
+        "Clorita"
+      ],
+      "minerales_alteracion": [
+        "Epidota y clorita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "M - 2",
+      "dir": "M-2",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "PORFIDOS_MUESTRAS.pdf",
+      "pagina": 15,
+      "tipo_yacimiento": "Porfido",
+      "protolito": "Roca volcanica",
+      "minerales_mena": [
+        "Cuarzo",
+        "Galena y esfalerita",
+        "Oxidos"
+      ],
+      "minerales_alteracion": [
+        "Oxidos",
+        "Galena y esfalerita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "M - 4",
+      "dir": "M-4",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "PORFIDOS_MUESTRAS.pdf",
+      "pagina": 17,
+      "tipo_yacimiento": "Porfido",
+      "protolito": "Roca ignea",
+      "minerales_mena": [
+        "Cuarzo",
+        "Sulfuros"
+      ],
+      "minerales_alteracion": [
+        "Oxidos (tenorita, hematita)"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "PCM - 18",
+      "dir": "PCM-18",
+      "autor": "Chavez Huamancha, Marlon Christopher",
+      "fuente_pdf": "PORFIDOS_MUESTRAS.pdf",
+      "pagina": 19,
+      "tipo_yacimiento": "Porfido de cobre",
+      "protolito": "",
+      "minerales_mena": [
+        "Clorita",
+        "Epidota",
+        "Silice",
+        "Pirita",
+        "Calcopirita"
+      ],
+      "minerales_alteracion": [
+        "Clorita",
+        "Epidota"
       ],
       "confianza": "alta"
     },

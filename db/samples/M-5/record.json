@@ -1,0 +1,102 @@
+{
+  "codigo": "M - 5",
+  "autor": "Chavez Huamancha, Marlon Christopher",
+  "formato": "GE-732 Tipo Porfido",
+  "fuente_pdf": "PORFIDOS_MUESTRAS.pdf",
+  "pagina": 3,
+  "mineralogia_texturas": [
+    {
+      "mineral": "Cuarzo",
+      "pct": "12",
+      "texturas": "Venilla",
+      "observaciones": "Venillas rectas"
+    },
+    {
+      "mineral": "Esfalerita y galena",
+      "pct": "5",
+      "texturas": "Venillas y diseminado",
+      "observaciones": "Se encuentran cercanas a la clorita"
+    },
+    {
+      "mineral": "Clorita",
+      "pct": "2",
+      "texturas": "Masiva",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Casiterita",
+      "pct": "2",
+      "texturas": "Botroidal",
+      "observaciones": "Forma un contorno"
+    },
+    {
+      "mineral": "Pirita",
+      "pct": "2",
+      "texturas": "Diseminada, masivo",
+      "observaciones": ""
+    }
+  ],
+  "esquema": {
+    "descripcion": "Dibujo circular (vista de lupa): fondo anaranjado surcado por venillas azules anchas y sinuosas; en la parte superior una zona gris clara.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {
+      "mineral": "Galena y esfalerita",
+      "pct": "5",
+      "intensidad": "pervasiva",
+      "observaciones": "Distribucion de la galena y esfalerita rodeando a la clorita principalmente"
+    },
+    {
+      "mineral": "Cloritas",
+      "pct": "2",
+      "intensidad": "pervasiva",
+      "observaciones": ""
+    },
+    {
+      "mineral": "Oxidos (limonitas)",
+      "pct": "traza",
+      "intensidad": "pervasiva",
+      "observaciones": ""
+    }
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "De mayor a menor temperatura: cuarzo, sulfuros, clorita, casiterita y pirita.",
+    "eventos": [
+      {
+        "mineral": "Cuarzo",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Sulfuros",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Clorita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Casiterita",
+        "etapa": "",
+        "notas": ""
+      },
+      {
+        "mineral": "Pirita",
+        "etapa": "",
+        "notas": ""
+      }
+    ]
+  },
+  "interpretacion": {
+    "protolito": "No identificable",
+    "alteraciones": "Cloritizacion",
+    "condiciones_fq": "Condiciones de ambiente supergeno; T = 200-300 C; pH neutro a basico",
+    "tipo_yacimiento": "Porfido"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Escaneo de hoja manuscrita, leido con vision. Cada muestra ocupa dos paginas (anverso con las secciones 1-3 y reverso con las 4-6), pero el PDF NO las trae consecutivas: el emparejamiento se reconstruyo por contenido. El campo 'pagina' apunta al anverso (el que lleva el codigo) y es la imagen guardada en page.jpg. Reverso de esta muestra: pagina 4. La esfalerita y la galena comparten una sola celda de % (5) en la tabla 1, igual que en la tabla 2. La tabla de venillas esta vacia."
+}

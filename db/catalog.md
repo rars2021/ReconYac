@@ -1,6 +1,6 @@
 # Catalogo de muestras (ReconYac)
 
-Total: **50** muestras.
+Total: **60** muestras.
 
 | Codigo | Autor | Tipo de yacimiento | Minerales de mena | Alteracion | Fuente (pag) | Conf. |
 |---|---|---|---|---|---|---|
@@ -27,6 +27,16 @@ Total: **50** muestras.
 | [MA-Y-19](samples/MA-Y-19/record.md) | Minaya Delgado, Steven Jeremy (20204182D) | Hidrotermal | Piroxenos, Feldespato Potasico, Serpentina, Wollastonita | Serpentina, Wollastonita | MINAYA_DELGADO_STEVEN.pdf (p2) | alta |
 | [MA-Y-20](samples/MA-Y-20/record.md) | Minaya Delgado, Steven Jeremy (20204182D) | Hidrotermal | Piroxenos, Feldespato Potasico | Feldespato Potasico | MINAYA_DELGADO_STEVEN.pdf (p3) | alta |
 | [MA-Y-22](samples/MA-Y-22/record.md) | Minaya Delgado, Steven Jeremy (20204182D) | Magmatico | Maficos, Felsicos | Felsicos | MINAYA_DELGADO_STEVEN.pdf (p4) | alta |
+| [PCM - 12](samples/PCM-12/record.md) | Chavez Huamancha, Marlon Christopher | Porfido de Cu | Clorita, Epidota, Cuarzo, Sericita | Clorita, Epidota | PORFIDOS_MUESTRAS.pdf (p1) | alta |
+| [M - 5](samples/M-5/record.md) | Chavez Huamancha, Marlon Christopher | Porfido | Cuarzo, Esfalerita y galena, Clorita, Casiterita, Pirita | Galena y esfalerita, Cloritas, Oxidos (limonitas) | PORFIDOS_MUESTRAS.pdf (p3) | alta |
+| [PCM - 14](samples/PCM-14/record.md) | Chavez Huamancha, Marlon Christopher | Porfido de Cu | Clorita, Cuarzo, Sericita, Pirita | Clorita | PORFIDOS_MUESTRAS.pdf (p5) | alta |
+| [PCM - 16](samples/PCM-16/record.md) | Chavez Huamancha, Marlon Christopher | Porfido de Cu | Clorita, Epidota, Calcopirita, Pirita | Clorita, Epidota | PORFIDOS_MUESTRAS.pdf (p7) | alta |
+| [M - 7](samples/M-7/record.md) | Chavez Huamancha, Marlon Christopher | Porfido | Pirita, Materia organica | Pirita | PORFIDOS_MUESTRAS.pdf (p9) | alta |
+| [M - 1](samples/M-1/record.md) | Chavez Huamancha, Marlon Christopher | Yacimiento porfido | Sulfuros en general | Limonita, Arcillas, sericita y caolinita | PORFIDOS_MUESTRAS.pdf (p11) | alta |
+| [M - 3](samples/M-3/record.md) | Chavez Huamancha, Marlon Christopher | Porfido | Ortosa, Cuarzo, Plagioclasa, Epidota, Clorita | Epidota y clorita | PORFIDOS_MUESTRAS.pdf (p13) | alta |
+| [M - 2](samples/M-2/record.md) | Chavez Huamancha, Marlon Christopher | Porfido | Cuarzo, Galena y esfalerita, Oxidos | Oxidos, Galena y esfalerita | PORFIDOS_MUESTRAS.pdf (p15) | alta |
+| [M - 4](samples/M-4/record.md) | Chavez Huamancha, Marlon Christopher | Porfido | Cuarzo, Sulfuros | Oxidos (tenorita, hematita) | PORFIDOS_MUESTRAS.pdf (p17) | alta |
+| [PCM - 18](samples/PCM-18/record.md) | Chavez Huamancha, Marlon Christopher | Porfido de cobre | Clorita, Epidota, Silice, Pirita, Calcopirita | Clorita, Epidota | PORFIDOS_MUESTRAS.pdf (p19) | alta |
 | [MA - T - 5](samples/MA-T-5-b/record.md) | Aguilar Peralta, Jose Luis | Yacimientos magmaticos sedimentarios | Arcillas, Albita, Sulfatos, Oxidos |  | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p3) | alta |
 | [15](samples/15/record.md) | Aguilar Peralta, Jose Luis | Yacimientos magmaticos | Caolin, Galena, Esfalerita | Esfalerita | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p4) | alta |
 | [MA - T - 5](samples/MA-T-5/record.md) | Aguilar Peralta, Jose Luis | Yacimientos magmaticos | Actinolita, Cuarzo, Sericita | Sericita | YACIMIENTOS-AGUILAR_PERALTA_JOSE_LUIS.pdf (p5) | alta |

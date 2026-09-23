@@ -1,0 +1,33 @@
+{
+  "codigo": "MA-Y-22",
+  "autor": "Minaya Delgado, Steven Jeremy (20204182D)",
+  "fuente_pdf": "MINAYA_DELGADO_STEVEN.pdf",
+  "pagina": 4,
+  "mineralogia_texturas": [
+    {"mineral": "Maficos", "pct": "55", "texturas": "Bandeada", "observaciones": ""},
+    {"mineral": "Felsicos", "pct": "45", "texturas": "De reemplazamiento", "observaciones": "Plagioclasa + cuarzo (pgl + cz)"}
+  ],
+  "esquema": {
+    "descripcion": "Textura bandeada: bandas de minerales maficos (oscuras) y felsicos (plagioclasa + cuarzo).",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {"mineral": "Felsicos", "pct": "45", "intensidad": "moderada", "observaciones": ""}
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Roca caja seguida de Plagioclasa.",
+    "eventos": [
+      {"mineral": "Roca caja", "etapa": "roca caja", "notas": ""},
+      {"mineral": "Plagioclasa", "etapa": "hidrotermal", "notas": ""}
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Roca ultramafica",
+    "alteraciones": "Alteracion potasica",
+    "condiciones_fq": "T alta",
+    "tipo_yacimiento": "Magmatico"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Letra central del codigo ambigua; se transcribe como 'Y'. Codigo lee 'MA-Y-22'."
+}

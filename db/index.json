@@ -1,0 +1,59 @@
+{
+  "total": 3,
+  "muestras": [
+    {
+      "codigo": "MA-Y-19",
+      "dir": "MA-Y-19",
+      "autor": "Minaya Delgado, Steven Jeremy (20204182D)",
+      "fuente_pdf": "MINAYA_DELGADO_STEVEN.pdf",
+      "pagina": 2,
+      "tipo_yacimiento": "Hidrotermal",
+      "protolito": "Gabro",
+      "minerales_mena": [
+        "Piroxenos",
+        "Feldespato Potasico",
+        "Serpentina",
+        "Wollastonita"
+      ],
+      "minerales_alteracion": [
+        "Serpentina",
+        "Wollastonita"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA-Y-20",
+      "dir": "MA-Y-20",
+      "autor": "Minaya Delgado, Steven Jeremy (20204182D)",
+      "fuente_pdf": "MINAYA_DELGADO_STEVEN.pdf",
+      "pagina": 3,
+      "tipo_yacimiento": "Hidrotermal",
+      "protolito": "Basalto",
+      "minerales_mena": [
+        "Piroxenos",
+        "Feldespato Potasico"
+      ],
+      "minerales_alteracion": [
+        "Feldespato Potasico"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "codigo": "MA-Y-22",
+      "dir": "MA-Y-22",
+      "autor": "Minaya Delgado, Steven Jeremy (20204182D)",
+      "fuente_pdf": "MINAYA_DELGADO_STEVEN.pdf",
+      "pagina": 4,
+      "tipo_yacimiento": "Magmatico",
+      "protolito": "Roca ultramafica",
+      "minerales_mena": [
+        "Maficos",
+        "Felsicos"
+      ],
+      "minerales_alteracion": [
+        "Felsicos"
+      ],
+      "confianza": "alta"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "codigo": "MA-Y-19",
+  "autor": "Minaya Delgado, Steven Jeremy (20204182D)",
+  "fuente_pdf": "MINAYA_DELGADO_STEVEN.pdf",
+  "pagina": 2,
+  "mineralogia_texturas": [
+    {"mineral": "Piroxenos", "pct": "42", "texturas": "Masivo", "observaciones": ""},
+    {"mineral": "Feldespato Potasico", "pct": "28", "texturas": "Ameboide", "observaciones": ""},
+    {"mineral": "Serpentina", "pct": "20", "texturas": "Masivo", "observaciones": ""},
+    {"mineral": "Wollastonita", "pct": "10", "texturas": "Masivo", "observaciones": ""}
+  ],
+  "esquema": {
+    "descripcion": "Dibujo de la muestra con Piroxenos (gris), Feldespato Potasico (naranja), Serpentina (verde) y Wollastonita (morado).",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {"mineral": "Serpentina", "pct": "20", "intensidad": "moderada", "observaciones": ""},
+    {"mineral": "Wollastonita", "pct": "10", "intensidad": "moderada", "observaciones": ""}
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Roca caja seguida de Feldespato Potasico, Wollastonita y Serpentina.",
+    "eventos": [
+      {"mineral": "Roca Caja", "etapa": "roca caja", "notas": ""},
+      {"mineral": "Feldespato Potasico", "etapa": "hidrotermal", "notas": ""},
+      {"mineral": "Wollastonita", "etapa": "hidrotermal", "notas": ""},
+      {"mineral": "Serpentina", "etapa": "hidrotermal", "notas": ""}
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Gabro",
+    "alteraciones": "Alteracion propilitica",
+    "condiciones_fq": "pH = 6 ; T = 620 C",
+    "tipo_yacimiento": "Hidrotermal"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "La letra central del codigo (MA-?-19) es ambigua en el escaneo; se transcribe como 'Y'."
+}

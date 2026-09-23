@@ -1,0 +1,113 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://reconyac/schema/sample.schema.json",
+  "title": "Muestra Mineral (GE-701)",
+  "description": "Registro estructurado de una muestra descrita con el Formato de Descripcion de Muestras Minerales GE-701 (UNI - Escuela de Geologia).",
+  "type": "object",
+  "required": ["codigo", "fuente_pdf", "pagina"],
+  "additionalProperties": false,
+  "properties": {
+    "codigo": {
+      "type": "string",
+      "description": "Codigo de Muestra tal como aparece en el formato. Si falta, usar un id derivado (p.ej. AUTOR-p03)."
+    },
+    "autor": {
+      "type": "string",
+      "description": "Apellidos y Nombres del que describio la muestra."
+    },
+    "fuente_pdf": {
+      "type": "string",
+      "description": "Nombre del PDF fuente en muestras_pdf/."
+    },
+    "pagina": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Numero de pagina (1-indexado) dentro del PDF fuente."
+    },
+    "mineralogia_texturas": {
+      "type": "array",
+      "description": "Seccion 1: Mineralogia y Texturas (Menas y Gangas).",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "mineral": {"type": "string"},
+          "pct": {"type": "string", "description": "Porcentaje (texto, admite rangos y ~)."},
+          "texturas": {"type": "string"},
+          "observaciones": {"type": "string"}
+        },
+        "required": ["mineral"]
+      }
+    },
+    "esquema": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Seccion 2: Esquema (dibujo a mano) + escala.",
+      "properties": {
+        "descripcion": {"type": "string", "description": "Que muestra el esquema (interpretacion del dibujo, minerales y colores)."},
+        "escala": {"type": "string"},
+        "imagen": {"type": "string", "description": "Nombre del archivo de imagen del esquema recortado, si se guardo."}
+      }
+    },
+    "secuencia_paragenetica": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Seccion 4 (cuando el formato la incluye): Secuencia paragenetica (orden de cristalizacion/alteracion).",
+      "properties": {
+        "descripcion": {"type": "string"},
+        "eventos": {
+          "type": "array",
+          "description": "Eventos en orden temporal (del mas antiguo al mas reciente).",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "mineral": {"type": "string", "description": "Mineral o asociacion (p.ej. 'Roca Caja', 'Feldespato Potasico')."},
+              "etapa": {"type": "string", "description": "Etapa/evento asociado (p.ej. roca caja, hidrotermal, supergeno, alteracion potasica)."},
+              "notas": {"type": "string"}
+            },
+            "required": ["mineral"]
+          }
+        }
+      }
+    },
+    "ensambles_alteracion": {
+      "type": "array",
+      "description": "Seccion 3: Ensambles de Minerales de Alteracion Hidrotermal / Supergeno.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "mineral": {"type": "string"},
+          "pct": {"type": "string"},
+          "intensidad": {
+            "type": "string",
+            "description": "incipiente | debil | moderada | intensa | pervasiva (o texto libre)."
+          },
+          "observaciones": {"type": "string"}
+        },
+        "required": ["mineral"]
+      }
+    },
+    "interpretacion": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Seccion 4: Interpretacion.",
+      "properties": {
+        "protolito": {"type": "string"},
+        "alteraciones": {"type": "string"},
+        "condiciones_fq": {"type": "string", "description": "Condiciones Fisico-Quimicas (pH, T, P, otros)."},
+        "tipo_yacimiento": {"type": "string"}
+      }
+    },
+    "confianza": {
+      "type": "string",
+      "enum": ["alta", "media", "baja"],
+      "description": "Confianza de la transcripcion (legibilidad del manuscrito/escaneo)."
+    },
+    "notas_transcripcion": {
+      "type": "string",
+      "description": "Notas del transcriptor: partes ilegibles, dudas, etc."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "codigo": "MA-Y-20",
+  "autor": "Minaya Delgado, Steven Jeremy (20204182D)",
+  "fuente_pdf": "MINAYA_DELGADO_STEVEN.pdf",
+  "pagina": 3,
+  "mineralogia_texturas": [
+    {"mineral": "Piroxenos", "pct": "85", "texturas": "Masiva", "observaciones": ""},
+    {"mineral": "Feldespato Potasico", "pct": "15", "texturas": "Venillas", "observaciones": ""}
+  ],
+  "esquema": {
+    "descripcion": "Muestra gris (Piroxenos) cortada por venillas naranjas de Feldespato Potasico.",
+    "escala": "",
+    "imagen": ""
+  },
+  "ensambles_alteracion": [
+    {"mineral": "Feldespato Potasico", "pct": "15", "intensidad": "moderada", "observaciones": "Se presenta en venillas"}
+  ],
+  "secuencia_paragenetica": {
+    "descripcion": "Roca caja (Piroxenos, Anfiboles) seguida de Feldespato Potasico por alteracion potasica.",
+    "eventos": [
+      {"mineral": "Piroxenos, Anfiboles", "etapa": "roca caja", "notas": ""},
+      {"mineral": "Feldespato Potasico", "etapa": "hidrotermal", "notas": "Alteracion potasica"}
+    ]
+  },
+  "interpretacion": {
+    "protolito": "Basalto",
+    "alteraciones": "Potasica",
+    "condiciones_fq": "pH = 7 ; T = 400-500 C",
+    "tipo_yacimiento": "Hidrotermal"
+  },
+  "confianza": "alta",
+  "notas_transcripcion": "Letra central del codigo ambigua; se transcribe como 'Y'."
+}
